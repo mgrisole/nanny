@@ -1,2 +1,4 @@
 node_modules
 .idea
+captures-local-storage
+.DS_Store

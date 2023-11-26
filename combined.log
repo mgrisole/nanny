@@ -249,3 +249,379 @@
 11/20/2023 10:21:36 AM / info -> Capturing 12/12: /Volumes/Freebox/Nanny/1700472096004.avi
 11/20/2023 10:26:37 AM / info -> Merging: /Volumes/Freebox/Nanny/1700472397167.avi
 11/24/2023 12:15:04 AM / info -> Capturing 1/2: /Volumes/Freebox/Nanny/1700781304507.avi
+11/25/2023 6:45:25 PM / info -> Capturing 1/1: /Volumes/Freebox/Nanny/1700934325101.avi
+11/25/2023 6:46:02 PM / info -> Capturing 1/1: 1700934362666.avi
+11/25/2023 6:51:31 PM / info -> Capturing 1/1: 1700934691376.avi
+11/25/2023 6:52:51 PM / info -> Capturing 1/1: 1700934771137.avi
+11/25/2023 6:56:12 PM / info -> Capturing 1/1: 1700934972100.avi
+11/25/2023 6:56:22 PM / info -> Capturing 1/1: 1700934982140.avi
+11/25/2023 6:56:38 PM / info -> Capturing 1/1: 1700934998106.avi
+11/25/2023 6:57:40 PM / info -> Capturing 1/1: 1700935060902.avi
+11/25/2023 7:32:36 PM / info -> Capturing 1/1: 1700937156925.avi
+11/25/2023 7:36:09 PM / info -> Capturing 1/1: 1700937369821.avi
+11/26/2023 11:16:40 AM / info -> Capturing 1/1: 1700993800735.avi
+11/26/2023 2:15:24 PM / info -> Capturing 1/1: 1701004524191.avi
+11/26/2023 2:16:21 PM / info -> Capturing 1/1: 1701004581903.avi
+11/26/2023 2:17:33 PM / info -> Capturing 1/2: 1701004653095.avi
+11/26/2023 2:17:42 PM / info -> Capturing 2/2: 1701004662438.avi
+11/26/2023 2:17:51 PM / info -> Merging: 1701004671783.avi
+11/26/2023 2:20:37 PM / info -> Capturing 1/2: 1701004837828.avi
+11/26/2023 2:20:47 PM / info -> Capturing 2/2: 1701004847262.avi
+11/26/2023 2:20:55 PM / info -> Merging: 1701004855418.avi
+11/26/2023 2:27:03 PM / info -> Capturing 1/2: captures-local-storage/1701005223374.avi
+11/26/2023 2:27:30 PM / info -> Capturing 1/2: captures-local-storage/1701005250839.avi
+11/26/2023 2:38:30 PM / info -> Capturing 1/2: captures-local-storage/1701005910751.avi
+11/26/2023 2:40:34 PM / info -> Capturing 1/2: ./captures-local-storage/1701006034348.avi
+11/26/2023 2:40:43 PM / info -> Capturing 2/2: ./captures-local-storage/1701006043777.avi
+11/26/2023 2:40:51 PM / info -> Merging: ./captures-local-storage/1701006051948.avi
+11/26/2023 2:49:30 PM / info -> Capturing 1/2: ./captures-local-storage/1701006570374.avi
+11/26/2023 2:49:39 PM / info -> Capturing 2/2: ./captures-local-storage/1701006579834.avi
+11/26/2023 2:49:48 PM / info -> Merging: ./captures-local-storage/1701006588063.avi
+11/26/2023 3:04:05 PM / info -> Capturing 1/2: ./captures-local-storage/1701007445101.avi
+11/26/2023 3:04:12 PM / info -> Capturing 1/2: ./captures-local-storage/1701007452063.avi
+11/26/2023 3:04:21 PM / info -> Capturing 2/2: ./captures-local-storage/1701007461437.avi
+11/26/2023 3:48:46 PM / info -> Capturing 1/2: ./captures-local-storage/1701010126388.avi
+11/26/2023 3:48:55 PM / info -> Capturing 2/2: ./captures-local-storage/1701010126388.avi
+11/26/2023 3:53:49 PM / info -> Capturing 1/2: ./captures-local-storage/1701010429715.avi}
+11/26/2023 3:54:49 PM / info -> Capturing 1/2: ./captures-local-storage/1701010489142.avi}
+11/26/2023 3:55:44 PM / info -> Capturing 1/2: ./captures-local-storage/1701010544155.avi
+11/26/2023 3:55:53 PM / info -> Capturing 2/2: ./captures-local-storage/1701010553552.avi
+11/26/2023 3:56:01 PM / info -> Merging: ./captures-local-storage
+11/26/2023 4:00:19 PM / info -> Capturing 1/2: ./captures-local-storage/1701010819808.avi
+11/26/2023 4:00:29 PM / info -> Capturing 2/2: ./captures-local-storage/1701010829161.avi
+11/26/2023 4:00:38 PM / info -> Merging: ./captures-local-storage
+11/26/2023 7:29:12 PM / info -> Capturing 1/2: ./captures-local-storage/1701023352433.avi
+11/26/2023 7:29:22 PM / info -> Capturing 2/2: ./captures-local-storage/1701023362283.avi
+11/26/2023 7:29:30 PM / info -> Merging: ./captures-local-storage
+11/26/2023 7:29:30 PM / info -> Capture successfully merged: ./captures-local-storage/1701023370485.avi
+11/26/2023 7:29:30 PM / info -> File successfully uploaded: /Freebox/Nanny/./captures-local-storage/1701023370485.avi
+11/26/2023 7:30:00 PM / info -> Capturing 1/2: ./captures-local-storage/1701023400095.avi
+11/26/2023 7:30:09 PM / info -> Capturing 2/2: ./captures-local-storage/1701023409535.avi
+11/26/2023 7:30:17 PM / info -> Merging: ./captures-local-storage
+11/26/2023 7:30:17 PM / info -> Capture successfully merged: ./captures-local-storage/1701023417705.avi
+11/26/2023 7:30:17 PM / info -> File successfully uploaded: /Freebox/Nanny/./captures-local-storage/1701023417705.avi
+11/26/2023 7:40:48 PM / info -> Capturing 1/2: ./captures-local-storage/1701024048789.avi
+11/26/2023 7:40:58 PM / info -> Capturing 2/2: ./captures-local-storage/1701024058222.avi
+11/26/2023 7:41:06 PM / info -> Merging: ./captures-local-storage
+11/26/2023 7:41:06 PM / info -> Capture successfully merged: ./captures-local-storage/1701024066450.avi
+11/26/2023 7:41:06 PM / info -> File successfully uploaded: /Freebox/Nanny/./captures-local-storage/1701024066450.avi
+11/26/2023 7:43:36 PM / info -> Capturing 1/3: ./captures-local-storage/1701024216939.avi
+11/26/2023 7:48:38 PM / info -> Capturing 2/3: ./captures-local-storage/1701024518899.avi
+11/26/2023 7:53:39 PM / info -> Capturing 3/3: ./captures-local-storage/1701024819568.avi
+11/26/2023 7:58:40 PM / info -> Merging: ./captures-local-storage
+11/26/2023 7:58:40 PM / info -> Capture successfully merged: ./captures-local-storage/1701025120333.avi
+11/26/2023 7:58:47 PM / info -> File successfully uploaded: /Freebox/Nanny/./captures-local-storage/1701025120333.avi
+11/26/2023 8:01:50 PM / info -> Capturing 1/6: ./captures-local-storage/1701025310601.avi
+11/26/2023 8:06:52 PM / info -> Capturing 2/6: ./captures-local-storage/1701025612557.avi
+11/26/2023 8:11:53 PM / info -> Capturing 3/6: ./captures-local-storage/1701025913293.avi
+11/26/2023 8:16:53 PM / info -> Capturing 4/6: ./captures-local-storage/1701026213989.avi
+11/26/2023 8:21:54 PM / info -> Capturing 5/6: ./captures-local-storage/1701026514722.avi
+11/26/2023 8:26:55 PM / info -> Capturing 6/6: ./captures-local-storage/1701026815424.avi
+11/26/2023 8:31:56 PM / info -> Merging: ./captures-local-storage
+11/26/2023 8:31:57 PM / info -> Capture successfully merged: ./captures-local-storage/1701027116144.avi
+11/26/2023 8:31:57 PM / info -> ./captures-local-storage/1701027116144.avi:
+11/26/2023 8:31:57 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:03    0.12/427.88 MB  140.45 MB/s  
+11/26/2023 8:31:58 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:08   41.06/427.88 MB   51.07 MB/s  
+11/26/2023 8:31:59 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:10   62.94/427.88 MB   34.89 MB/s  
+11/26/2023 8:32:00 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:14   71.12/427.88 MB   25.36 MB/s  
+11/26/2023 8:32:01 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:19   72.23/427.88 MB   18.99 MB/s  
+11/26/2023 8:32:02 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:11  126.08/427.88 MB   26.24 MB/s  
+11/26/2023 8:32:03 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:06  202.27/427.88 MB   34.85 MB/s  
+11/26/2023 8:32:04 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:04  278.17/427.88 MB   40.88 MB/s  
+11/26/2023 8:32:05 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:02  357.17/427.88 MB   45.77 MB/s  
+11/26/2023 8:32:05 PM / info -> ...al-storage/1701027116144.avi:   ETA:   0:00  427.87/427.88 MB   48.99 MB/s  ./captures-local-storage/1701027116144.avi:            427.88 MB   48.99 MB/s  
+./captures-local-storage/1701027116144.avi:            427.88 MB   48.99 MB/s  
+
+11/26/2023 8:32:05 PM / info -> File successfully uploaded: /Freebox/Nanny/./captures-local-storage/1701027116144.avi
+11/26/2023 9:00:02 PM / info -> Capturing 1/1: ./captures-local-storage/1701028802742.avi
+11/26/2023 9:03:44 PM / info -> Capturing 1/1: ./captures-local-storage/1701029024072.avi
+11/26/2023 9:03:58 PM / info -> Capturing 1/1: ./captures-local-storage/1701029038098.avi
+11/26/2023 9:04:09 PM / info -> ./captures-local-storage/1701029038098.avi:
+11/26/2023 9:04:09 PM / info -> ...al-storage/1701029038098.avi:   ETA:   0:00    0.12/  2.64 MB   87.41 MB/s  
+11/26/2023 9:04:09 PM / info -> ...al-storage/1701029038098.avi:   ETA:   0:00    2.60/  2.64 MB   40.56 MB/s  ./captures-local-storage/1701029038098.avi:              2.64 MB   40.56 MB/s  
+./captures-local-storage/1701029038098.avi:              2.64 MB   40.56 MB/s  
+
+11/26/2023 9:04:09 PM / info -> ./captures-local-storage/1701029038098.avi successfully uploaded in ftp://mafreebox.freebox.fr//Freebox/Nanny
+11/26/2023 9:05:35 PM / info -> Capturing 1/1: ./captures-local-storage/1701029135167.avi
+11/26/2023 9:05:46 PM / info -> ./captures-local-storage/1701029135167.avi:
+11/26/2023 9:05:46 PM / info -> ...al-storage/1701029135167.avi:   ETA:   0:00    0.12/  2.37 MB  238.10 MB/s  
+11/26/2023 9:05:46 PM / info -> ...al-storage/1701029135167.avi:   ETA:   0:00    2.35/  2.37 MB   43.56 MB/s  ./captures-local-storage/1701029135167.avi:              2.37 MB   43.56 MB/s  
+./captures-local-storage/1701029135167.avi:              2.37 MB   43.56 MB/s  
+
+11/26/2023 9:05:46 PM / info -> ./captures-local-storage/1701029135167.avi successfully uploaded in ftp://mafreebox.freebox.fr//Freebox/Nanny
+11/26/2023 9:06:25 PM / info -> Capturing 1/1: ./captures-local-storage/1701029185846.avi
+11/26/2023 9:06:36 PM / info -> ./captures-local-storage/1701029185846.avi:
+11/26/2023 9:06:36 PM / info -> ...al-storage/1701029185846.avi:   ETA:   0:00    0.12/  4.42 MB  221.24 MB/s  
+11/26/2023 9:06:36 PM / info -> ...al-storage/1701029185846.avi:   ETA:   0:00    4.38/  4.42 MB   54.37 MB/s  ./captures-local-storage/1701029185846.avi:              4.42 MB   54.37 MB/s  
+./captures-local-storage/1701029185846.avi:              4.42 MB   54.37 MB/s  
+
+11/26/2023 9:06:36 PM / info -> ./captures-local-storage/1701029185846.avi successfully uploaded in ftp://mafreebox.freebox.fr//Freebox/Nanny
+11/26/2023 10:58:08 PM / info -> Capturing 1/1: ./captures-local-storage/1701035888532.avi
+11/26/2023 10:58:23 PM / info -> ./captures-local-storage/1701035888532.avi:...al-storage/1701035888532.avi:   ETA:   0:00    0.12/  3.65 MB  833.33 MB/s  
+11/26/2023 10:58:24 PM / info -> ...al-storage/1701035888532.avi:   ETA:   0:00    3.65/  3.65 MB    2.33 MB/s  
+11/26/2023 10:58:25 PM / info -> ...al-storage/1701035888532.avi:   ETA:   0:00    3.65/  3.65 MB    1.89 MB/s  ./captures-local-storage/1701035888532.avi:              3.65 MB    1.89 MB/s  
+./captures-local-storage/1701035888532.avi:              3.65 MB    1.89 MB/s  
+
+11/26/2023 10:58:25 PM / info -> ./captures-local-storage/1701035888532.avi successfully uploaded in ftp://mafreebox.freebox.fr//Freebox/Nanny
+11/27/2023 9:46:50 AM / info -> Capturing 1/1: ./captures-local-storage/1701074810282.avi
+11/27/2023 9:47:01 AM / info -> Cannot open local file undefined for reading: No such file or directory.
+ncftpput undefined: could not open file.
+
+11/27/2023 9:47:01 AM / info -> undefined successfully uploaded in ftp://mafreebox.freebox.fr//Freebox/Nanny
+11/27/2023 9:48:28 AM / info -> Capturing 1/1: ./captures-local-storage/1701074908353.avi
+11/27/2023 9:48:39 AM / info -> Cannot open local file undefined for reading: No such file or directory.
+ncftpput undefined: could not open file.
+
+11/27/2023 9:48:39 AM / info -> undefined successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 9:49:02 AM / info -> Capturing 1/1: ./captures-local-storage/1701074942305.avi
+11/27/2023 9:49:07 AM / info -> Cannot open local file undefined for reading: No such file or directory.
+ncftpput undefined: could not open file.
+
+11/27/2023 9:49:07 AM / info -> undefined successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 9:50:06 AM / info -> Capturing 1/1: ./captures-local-storage/1701075006630.avi
+11/27/2023 9:50:11 AM / info -> Cannot open local file undefined for reading: No such file or directory.
+ncftpput undefined: could not open file.
+
+11/27/2023 9:50:11 AM / info -> undefined successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 9:51:33 AM / info -> Capturing 1/1: ./captures-local-storage/1701075093933.avi
+11/27/2023 9:51:38 AM / info -> ./captures-local-storage/1701075093933.avi:
+11/27/2023 9:51:38 AM / info -> ...al-storage/1701075093933.avi:   ETA:   0:00  128.00/866.22 kB    2.65 GB/s  
+11/27/2023 9:51:38 AM / info -> ...al-storage/1701075093933.avi:   ETA:   0:00  861.55/866.22 kB   25.87 MB/s  ./captures-local-storage/1701075093933.avi:            866.22 kB   25.87 MB/s  
+./captures-local-storage/1701075093933.avi:            866.22 kB   25.87 MB/s  
+
+11/27/2023 9:51:38 AM / info -> ./captures-local-storage/1701075093933.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 9:52:28 AM / info -> Capturing 1/1: ./captures-local-storage/1701075148985.avi
+11/27/2023 9:52:33 AM / info -> ./captures-local-storage/1701075148985.avi:
+11/27/2023 9:52:33 AM / info -> ...al-storage/1701075148985.avi:   ETA:   0:00  128.00/855.61 kB    1.51 GB/s  
+11/27/2023 9:52:34 AM / info -> ...al-storage/1701075148985.avi:   ETA:   0:00  313.84/855.61 kB   18.86 MB/s  
+11/27/2023 9:52:34 AM / info -> ...al-storage/1701075148985.avi:   ETA:   0:00  800.00/855.61 kB   19.77 MB/s  ./captures-local-storage/1701075148985.avi:            855.61 kB   19.77 MB/s  
+./captures-local-storage/1701075148985.avi:            855.61 kB   19.77 MB/s  
+
+11/27/2023 9:52:34 AM / info -> ./captures-local-storage/1701075148985.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 9:57:53 AM / info -> Capturing 50/50: ./captures-local-storage/1701075473770.avi
+11/27/2023 9:57:55 AM / info -> Capturing 1/50: ./captures-local-storage/1701075475975.avi
+11/27/2023 9:57:56 AM / info -> Capturing 2/50: ./captures-local-storage/1701075476933.avi
+11/27/2023 9:58:33 AM / info -> Capturing 50/50: ./captures-local-storage/1701075513466.avi
+11/27/2023 9:58:35 AM / info -> Capturing 1/50: ./captures-local-storage/1701075515660.avi
+11/27/2023 9:59:09 AM / info -> Capturing 6/6: ./captures-local-storage/1701075549327.avi
+11/27/2023 10:01:24 AM / info -> Capturing 6/6: ./captures-local-storage/1701075684792.avi
+11/27/2023 10:01:30 AM / info -> Capturing 1/6: ./captures-local-storage/1701075690387.avi
+11/27/2023 10:01:33 AM / info -> Capturing 6/6: ./captures-local-storage/1701075693271.avi
+11/27/2023 10:01:36 AM / info -> Capturing 1/6: ./captures-local-storage/1701075696966.avi
+11/27/2023 10:01:40 AM / info -> Capturing 2/6: ./captures-local-storage/1701075700606.avi
+11/27/2023 10:01:44 AM / info -> Capturing 3/6: ./captures-local-storage/1701075704292.avi
+11/27/2023 10:01:47 AM / info -> Capturing 4/6: ./captures-local-storage/1701075707995.avi
+11/27/2023 10:01:51 AM / info -> Capturing 5/6: ./captures-local-storage/1701075711681.avi
+11/27/2023 10:01:55 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:01:55 AM / info -> Capture successfully merged: ./captures-local-storage/1701075715325.avi
+11/27/2023 10:01:55 AM / info -> ./captures-local-storage/1701075715325.avi:
+11/27/2023 10:01:55 AM / info -> ...al-storage/1701075715325.avi:   ETA:   0:00    0.12/  4.90 MB    1.65 GB/s  
+11/27/2023 10:01:55 AM / info -> ...al-storage/1701075715325.avi:   ETA:   0:00    4.88/  4.90 MB   52.66 MB/s  ./captures-local-storage/1701075715325.avi:              4.90 MB   52.66 MB/s  
+./captures-local-storage/1701075715325.avi:              4.90 MB   52.66 MB/s  
+
+11/27/2023 10:01:55 AM / info -> ./captures-local-storage/1701075715325.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:02:20 AM / info -> Capturing 6/6: ./captures-local-storage/1701075740462.avi
+11/27/2023 10:02:25 AM / info -> Capturing 1/6: ./captures-local-storage/1701075745345.avi
+11/27/2023 10:02:29 AM / info -> Capturing 2/6: ./captures-local-storage/1701075749013.avi
+11/27/2023 10:02:32 AM / info -> Capturing 3/6: ./captures-local-storage/1701075752721.avi
+11/27/2023 10:02:36 AM / info -> Capturing 4/6: ./captures-local-storage/1701075756410.avi
+11/27/2023 10:02:40 AM / info -> Capturing 5/6: ./captures-local-storage/1701075760107.avi
+11/27/2023 10:02:43 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:02:43 AM / info -> Capture successfully merged: ./captures-local-storage/1701075763758.avi
+11/27/2023 10:02:43 AM / info -> ./captures-local-storage/1701075763758.avi:
+11/27/2023 10:02:43 AM / info -> ...al-storage/1701075763758.avi:   ETA:   0:00    0.12/  6.43 MB    1.51 GB/s  
+11/27/2023 10:02:44 AM / info -> ...al-storage/1701075763758.avi:   ETA:   0:00    6.42/  6.43 MB   47.97 MB/s  ./captures-local-storage/1701075763758.avi:              6.43 MB   47.97 MB/s  
+./captures-local-storage/1701075763758.avi:              6.43 MB   47.97 MB/s  
+
+11/27/2023 10:02:44 AM / info -> ./captures-local-storage/1701075763758.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:03:11 AM / info -> Capturing 6/6: ./captures-local-storage/1701075791573.avi
+11/27/2023 10:03:16 AM / info -> Capturing 1/6: ./captures-local-storage/1701075796454.avi
+11/27/2023 10:03:20 AM / info -> Capturing 2/6: ./captures-local-storage/1701075800196.avi
+11/27/2023 10:03:23 AM / info -> Capturing 3/6: ./captures-local-storage/1701075803906.avi
+11/27/2023 10:03:27 AM / info -> Capturing 4/6: ./captures-local-storage/1701075807604.avi
+11/27/2023 10:03:31 AM / info -> Capturing 5/6: ./captures-local-storage/1701075811294.avi
+11/27/2023 10:06:17 AM / info -> Cannot open local file undefined for reading: No such file or directory.
+ncftpput undefined: could not open file.
+
+11/27/2023 10:06:17 AM / info -> undefined successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:07:06 AM / info -> Capturing 6/6: ./captures-local-storage/1701076026944.avi
+11/27/2023 10:07:42 AM / info -> Capturing 6/6: ./captures-local-storage/1701076062500.avi
+11/27/2023 10:08:39 AM / info -> Capturing 7/7: ./captures-local-storage/1701076119761.avi
+11/27/2023 10:09:54 AM / info -> Capturing 1/6: ./captures-local-storage/1701076194230.avi
+11/27/2023 10:10:00 AM / info -> Capturing 1/6: ./captures-local-storage/1701076200851.avi
+11/27/2023 10:10:05 AM / info -> Capturing 2/6: ./captures-local-storage/1701076205703.avi
+11/27/2023 10:10:09 AM / info -> Capturing 3/6: ./captures-local-storage/1701076209366.avi
+11/27/2023 10:10:13 AM / info -> Capturing 4/6: ./captures-local-storage/1701076213014.avi
+11/27/2023 10:10:16 AM / info -> Capturing 5/6: ./captures-local-storage/1701076216670.avi
+11/27/2023 10:10:20 AM / info -> Capturing 6/6: ./captures-local-storage/1701076220337.avi
+11/27/2023 10:10:24 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:10:24 AM / info -> Capture successfully merged: ./captures-local-storage/1701076224006.avi
+11/27/2023 10:10:24 AM / info -> ./captures-local-storage/1701076224006.avi:
+11/27/2023 10:10:24 AM / info -> ...al-storage/1701076224006.avi:   ETA:   0:00    0.12/  6.86 MB    2.10 GB/s  
+11/27/2023 10:10:24 AM / info -> ...al-storage/1701076224006.avi:   ETA:   0:00    6.84/  6.86 MB   52.40 MB/s  ./captures-local-storage/1701076224006.avi:              6.86 MB   52.40 MB/s  
+./captures-local-storage/1701076224006.avi:              6.86 MB   52.40 MB/s  
+
+11/27/2023 10:10:24 AM / info -> ./captures-local-storage/1701076224006.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:14:08 AM / info -> Capturing 1/3: ./captures-local-storage/1701076448535.avi
+11/27/2023 10:14:15 AM / info -> Capturing 2/3: ./captures-local-storage/1701076455159.avi
+11/27/2023 10:14:18 AM / info -> Capturing 3/3: ./captures-local-storage/1701076458822.avi
+11/27/2023 10:14:22 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:14:22 AM / info -> Capture successfully merged: ./captures-local-storage/1701076462451.avi
+11/27/2023 10:14:22 AM / info -> ./captures-local-storage/1701076462451.avi:
+11/27/2023 10:14:22 AM / info -> ...al-storage/1701076462451.avi:   ETA:   0:00    0.12/  2.38 MB    1.42 GB/s  
+11/27/2023 10:14:22 AM / info -> ...al-storage/1701076462451.avi:   ETA:   0:00    2.34/  2.38 MB   37.90 MB/s  ./captures-local-storage/1701076462451.avi:              2.38 MB   37.90 MB/s  
+./captures-local-storage/1701076462451.avi:              2.38 MB   37.90 MB/s  
+
+11/27/2023 10:14:22 AM / info -> ./captures-local-storage/1701076462451.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:14:46 AM / info -> Capturing 1/3: ./captures-local-storage/1701076486399.avi
+11/27/2023 10:14:51 AM / info -> Capturing 2/3: ./captures-local-storage/1701076491380.avi
+11/27/2023 10:14:55 AM / info -> Capturing 3/3: ./captures-local-storage/1701076495122.avi
+11/27/2023 10:14:58 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:14:58 AM / info -> Capture successfully merged: ./captures-local-storage/1701076498846.avi
+11/27/2023 10:14:58 AM / info -> ./captures-local-storage/1701076498846.avi:
+11/27/2023 10:14:58 AM / info -> ...al-storage/1701076498846.avi:   ETA:   0:00    0.12/  2.45 MB    2.30 GB/s  
+11/27/2023 10:14:59 AM / info -> ...al-storage/1701076498846.avi:   ETA:   0:00    2.43/  2.45 MB   40.18 MB/s  ./captures-local-storage/1701076498846.avi:              2.45 MB   40.18 MB/s  
+./captures-local-storage/1701076498846.avi:              2.45 MB   40.18 MB/s  
+
+11/27/2023 10:14:59 AM / info -> ./captures-local-storage/1701076498846.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:15:20 AM / info -> Capturing 1/6: ./captures-local-storage/1701076520636.avi
+11/27/2023 10:15:25 AM / info -> Capturing 2/6: ./captures-local-storage/1701076525542.avi
+11/27/2023 10:15:29 AM / info -> Capturing 3/6: ./captures-local-storage/1701076529170.avi
+11/27/2023 10:15:32 AM / info -> Capturing 4/6: ./captures-local-storage/1701076532882.avi
+11/27/2023 10:15:36 AM / info -> Capturing 5/6: ./captures-local-storage/1701076536588.avi
+11/27/2023 10:15:40 AM / info -> Capturing 6/6: ./captures-local-storage/1701076540302.avi
+11/27/2023 10:15:43 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:15:44 AM / info -> Capture successfully merged: ./captures-local-storage/1701076543974.avi
+11/27/2023 10:15:44 AM / info -> ./captures-local-storage/1701076543974.avi:
+11/27/2023 10:15:44 AM / info -> ...al-storage/1701076543974.avi:   ETA:   0:00    0.12/  4.90 MB    1.85 GB/s  
+11/27/2023 10:15:44 AM / info -> ...al-storage/1701076543974.avi:   ETA:   0:00    4.86/  4.90 MB   50.58 MB/s  ./captures-local-storage/1701076543974.avi:              4.90 MB   50.58 MB/s  
+./captures-local-storage/1701076543974.avi:              4.90 MB   50.58 MB/s  
+
+11/27/2023 10:15:44 AM / info -> ./captures-local-storage/1701076543974.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:16:07 AM / info -> Capturing 1/6: ./captures-local-storage/1701076567596.avi
+11/27/2023 10:16:12 AM / info -> Capturing 2/6: ./captures-local-storage/1701076572569.avi
+11/27/2023 10:16:16 AM / info -> Capturing 3/6: ./captures-local-storage/1701076576243.avi
+11/27/2023 10:16:19 AM / info -> Capturing 4/6: ./captures-local-storage/1701076579945.avi
+11/27/2023 10:16:23 AM / info -> Capturing 5/6: ./captures-local-storage/1701076583633.avi
+11/27/2023 10:16:27 AM / info -> Capturing 6/6: ./captures-local-storage/1701076587334.avi
+11/27/2023 10:16:31 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:16:31 AM / info -> Capture successfully merged: ./captures-local-storage/1701076591075.avi
+11/27/2023 10:16:31 AM / info -> ./captures-local-storage/1701076591075.avi:
+11/27/2023 10:16:31 AM / info -> ...al-storage/1701076591075.avi:   ETA:   0:00    0.12/  5.09 MB    2.10 GB/s  
+11/27/2023 10:16:31 AM / info -> ...al-storage/1701076591075.avi:   ETA:   0:00    5.09/  5.09 MB   50.94 MB/s  ./captures-local-storage/1701076591075.avi:              5.09 MB   50.94 MB/s  
+./captures-local-storage/1701076591075.avi:              5.09 MB   50.94 MB/s  
+
+11/27/2023 10:16:31 AM / info -> ./captures-local-storage/1701076591075.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:18:00 AM / info -> Capturing 1/6: ./captures-local-storage/1701076680420.avi
+11/27/2023 10:18:05 AM / info -> Capturing 2/6: ./captures-local-storage/1701076685375.avi
+11/27/2023 10:18:09 AM / info -> Capturing 3/6: ./captures-local-storage/1701076689068.avi
+11/27/2023 10:18:12 AM / info -> Capturing 4/6: ./captures-local-storage/1701076692764.avi
+11/27/2023 10:18:16 AM / info -> Capturing 5/6: ./captures-local-storage/1701076696476.avi
+11/27/2023 10:18:20 AM / info -> Capturing 6/6: ./captures-local-storage/1701076700235.avi
+11/27/2023 10:18:23 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:18:23 AM / info -> Capture successfully merged: ./captures-local-storage/1701076703920.avi
+11/27/2023 10:18:24 AM / info -> ./captures-local-storage/1701076703920.avi:
+11/27/2023 10:18:24 AM / info -> ...al-storage/1701076703920.avi:   ETA:   0:00    0.12/  4.76 MB    1.37 GB/s  
+11/27/2023 10:18:24 AM / info -> ...al-storage/1701076703920.avi:   ETA:   0:00    4.73/  4.76 MB   54.39 MB/s  ./captures-local-storage/1701076703920.avi:              4.76 MB   54.39 MB/s  
+./captures-local-storage/1701076703920.avi:              4.76 MB   54.39 MB/s  
+
+11/27/2023 10:18:24 AM / info -> ./captures-local-storage/1701076703920.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:22:14 AM / info -> Capturing 1/6: ./captures-local-storage/1701076934439.avi
+11/27/2023 10:22:19 AM / info -> Capturing 2/6: ./captures-local-storage/1701076939440.avi
+11/27/2023 10:22:23 AM / info -> Capturing 3/6: ./captures-local-storage/1701076943127.avi
+11/27/2023 10:22:26 AM / info -> Capturing 4/6: ./captures-local-storage/1701076946799.avi
+11/27/2023 10:22:30 AM / info -> Capturing 5/6: ./captures-local-storage/1701076950462.avi
+11/27/2023 10:22:34 AM / info -> Capturing 6/6: ./captures-local-storage/1701076954138.avi
+11/27/2023 10:22:37 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:22:37 AM / info -> Capture successfully merged: ./captures-local-storage/1701076957736.avi
+11/27/2023 10:22:37 AM / info -> ./captures-local-storage/1701076957736.avi:
+11/27/2023 10:22:37 AM / info -> ...al-storage/1701076957736.avi:   ETA:   0:00    0.12/  5.45 MB    1.28 GB/s  
+11/27/2023 10:22:37 AM / info -> ...al-storage/1701076957736.avi:   ETA:   0:00    5.41/  5.45 MB   56.36 MB/s  ./captures-local-storage/1701076957736.avi:              5.45 MB   56.36 MB/s  
+./captures-local-storage/1701076957736.avi:              5.45 MB   56.36 MB/s  
+
+11/27/2023 10:22:37 AM / info -> ./captures-local-storage/1701076957736.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:30:12 AM / info -> Capturing 1/6: ./captures-local-storage/1701077412664.avi
+11/27/2023 10:30:17 AM / info -> Capturing 2/6: ./captures-local-storage/1701077417634.avi
+11/27/2023 10:30:21 AM / info -> Capturing 3/6: ./captures-local-storage/1701077421284.avi
+11/27/2023 10:30:24 AM / info -> Capturing 4/6: ./captures-local-storage/1701077424959.avi
+11/27/2023 10:30:28 AM / info -> Capturing 5/6: ./captures-local-storage/1701077428664.avi
+11/27/2023 10:30:32 AM / info -> Capturing 6/6: ./captures-local-storage/1701077432331.avi
+11/27/2023 10:30:36 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:30:36 AM / info -> Capture successfully merged: ./captures-local-storage/1701077436062.avi
+11/27/2023 10:30:36 AM / info -> ./captures-local-storage/1701077436062.avi:
+11/27/2023 10:30:36 AM / info -> ...al-storage/1701077436062.avi:   ETA:   0:00    0.12/  5.62 MB  976.56 MB/s  
+11/27/2023 10:30:36 AM / info -> ...al-storage/1701077436062.avi:   ETA:   0:00    5.60/  5.62 MB   46.81 MB/s  ./captures-local-storage/1701077436062.avi:              5.62 MB   46.81 MB/s  
+./captures-local-storage/1701077436062.avi:              5.62 MB   46.81 MB/s  
+
+11/27/2023 10:30:36 AM / info -> ./captures-local-storage/1701077436062.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:33:02 AM / info -> Capturing 1/6: ./captures-local-storage/1701077582454.avi
+11/27/2023 10:33:07 AM / info -> Capturing 2/6: ./captures-local-storage/1701077587440.avi
+11/27/2023 10:33:11 AM / info -> Capturing 3/6: ./captures-local-storage/1701077591180.avi
+11/27/2023 10:33:14 AM / info -> Capturing 4/6: ./captures-local-storage/1701077594941.avi
+11/27/2023 10:33:18 AM / info -> Capturing 5/6: ./captures-local-storage/1701077598627.avi
+11/27/2023 10:33:22 AM / info -> Capturing 6/6: ./captures-local-storage/1701077602371.avi
+11/27/2023 10:33:26 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:33:26 AM / info -> Capture successfully merged: ./captures-local-storage/1701077606041.avi
+11/27/2023 10:33:26 AM / info -> ./captures-local-storage/1701077606041.avi:
+11/27/2023 10:33:26 AM / info -> ...al-storage/1701077606041.avi:   ETA:   0:00    0.12/  5.11 MB    1.27 GB/s  
+11/27/2023 10:33:26 AM / info -> ...al-storage/1701077606041.avi:   ETA:   0:00    5.07/  5.11 MB   47.60 MB/s  ./captures-local-storage/1701077606041.avi:              5.11 MB   47.60 MB/s  
+./captures-local-storage/1701077606041.avi:              5.11 MB   47.60 MB/s  
+
+11/27/2023 10:33:26 AM / info -> ./captures-local-storage/1701077606041.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:33:47 AM / info -> Capturing 1/6: ./captures-local-storage/1701077627457.avi
+11/27/2023 10:33:52 AM / info -> Capturing 2/6: ./captures-local-storage/1701077632412.avi
+11/27/2023 10:33:56 AM / info -> Capturing 3/6: ./captures-local-storage/1701077636096.avi
+11/27/2023 10:33:59 AM / info -> Capturing 4/6: ./captures-local-storage/1701077639747.avi
+11/27/2023 10:34:03 AM / info -> Capturing 5/6: ./captures-local-storage/1701077643415.avi
+11/27/2023 10:34:07 AM / info -> Capturing 6/6: ./captures-local-storage/1701077647061.avi
+11/27/2023 10:34:10 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:34:10 AM / info -> Capture successfully merged: ./captures-local-storage/1701077650730.avi
+11/27/2023 10:34:10 AM / info -> ./captures-local-storage/1701077650730.avi:
+11/27/2023 10:34:10 AM / info -> ...al-storage/1701077650730.avi:   ETA:   0:00    0.12/  5.33 MB  791.14 MB/s  
+11/27/2023 10:34:10 AM / info -> ...al-storage/1701077650730.avi:   ETA:   0:00    5.32/  5.33 MB   52.27 MB/s  ./captures-local-storage/1701077650730.avi:              5.33 MB   52.27 MB/s  
+./captures-local-storage/1701077650730.avi:              5.33 MB   52.27 MB/s  
+
+11/27/2023 10:34:10 AM / info -> ./captures-local-storage/1701077650730.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:34:50 AM / info -> Capturing 1/6: ./captures-local-storage/1701077690467.avi
+11/27/2023 10:34:55 AM / info -> Capturing 2/6: ./captures-local-storage/1701077695405.avi
+11/27/2023 10:34:59 AM / info -> Capturing 3/6: ./captures-local-storage/1701077699079.avi
+11/27/2023 10:35:02 AM / info -> Capturing 4/6: ./captures-local-storage/1701077702792.avi
+11/27/2023 10:35:06 AM / info -> Capturing 5/6: ./captures-local-storage/1701077706493.avi
+11/27/2023 10:35:10 AM / info -> Capturing 6/6: ./captures-local-storage/1701077710176.avi
+11/27/2023 10:35:13 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:35:13 AM / info -> Capture successfully merged: ./captures-local-storage/1701077713833.avi
+11/27/2023 10:35:13 AM / info -> ./captures-local-storage/1701077713833.avi:
+11/27/2023 10:35:13 AM / info -> ...al-storage/1701077713833.avi:   ETA:   0:00    0.12/  5.32 MB  992.06 MB/s  
+11/27/2023 10:35:14 AM / info -> ...al-storage/1701077713833.avi:   ETA:   0:00    2.07/  5.32 MB   55.24 MB/s  
+11/27/2023 10:35:14 AM / info -> ...al-storage/1701077713833.avi:   ETA:   0:00    5.30/  5.32 MB   45.96 MB/s  ./captures-local-storage/1701077713833.avi:              5.32 MB   45.96 MB/s  
+./captures-local-storage/1701077713833.avi:              5.32 MB   45.96 MB/s  
+
+11/27/2023 10:35:14 AM / info -> ./captures-local-storage/1701077713833.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:35:44 AM / info -> Capturing 1/6: ./captures-local-storage/1701077744954.avi
+11/27/2023 10:35:49 AM / info -> Capturing 2/6: ./captures-local-storage/1701077749900.avi
+11/27/2023 10:35:53 AM / info -> Capturing 3/6: ./captures-local-storage/1701077753617.avi
+11/27/2023 10:35:57 AM / info -> Capturing 4/6: ./captures-local-storage/1701077757348.avi
+11/27/2023 10:36:01 AM / info -> Capturing 5/6: ./captures-local-storage/1701077761012.avi
+11/27/2023 10:36:04 AM / info -> Capturing 6/6: ./captures-local-storage/1701077764647.avi
+11/27/2023 10:36:08 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:36:08 AM / info -> Capture successfully merged: ./captures-local-storage/1701077768336.avi
+11/27/2023 10:36:08 AM / info -> ./captures-local-storage/1701077768336.avi:
+11/27/2023 10:36:08 AM / info -> ...al-storage/1701077768336.avi:   ETA:   0:00    0.12/  5.05 MB    1.16 GB/s  
+11/27/2023 10:36:08 AM / info -> ...al-storage/1701077768336.avi:   ETA:   0:00    5.03/  5.05 MB   53.41 MB/s  ./captures-local-storage/1701077768336.avi:              5.05 MB   53.41 MB/s  
+./captures-local-storage/1701077768336.avi:              5.05 MB   53.41 MB/s  
+
+11/27/2023 10:36:08 AM / info -> ./captures-local-storage/1701077768336.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:37:54 AM / info -> Capturing 1/6: ./captures-local-storage/1701077874210.avi
+11/27/2023 10:37:59 AM / info -> Capturing 2/6: ./captures-local-storage/1701077879130.avi
+11/27/2023 10:38:02 AM / info -> Capturing 3/6: ./captures-local-storage/1701077882801.avi
+11/27/2023 10:38:06 AM / info -> Capturing 4/6: ./captures-local-storage/1701077886471.avi
+11/27/2023 10:38:10 AM / info -> Capturing 5/6: ./captures-local-storage/1701077890127.avi
+11/27/2023 10:38:13 AM / info -> Capturing 6/6: ./captures-local-storage/1701077893818.avi
+11/27/2023 10:38:17 AM / info -> Merging: ./captures-local-storage
+11/27/2023 10:38:17 AM / info -> Capture successfully merged: ./captures-local-storage/1701077897515.avi
+11/27/2023 10:38:17 AM / info -> ./captures-local-storage/1701077897515.avi:
+11/27/2023 10:38:17 AM / info -> ...al-storage/1701077897515.avi:   ETA:   0:00    0.12/  5.07 MB  984.25 MB/s  
+11/27/2023 10:38:17 AM / info -> ...al-storage/1701077897515.avi:   ETA:   0:00    4.94/  5.07 MB   42.25 MB/s  ./captures-local-storage/1701077897515.avi:              5.07 MB   42.25 MB/s  
+./captures-local-storage/1701077897515.avi:              5.07 MB   42.25 MB/s  
+
+11/27/2023 10:38:17 AM / info -> ./captures-local-storage/1701077897515.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny

@@ -6,29 +6,20 @@
   "type": "module",
   "scripts": {
     "clean": "rm -f video.mp4 && rm -rf capture",
-    "capture": "bun index.js && bun video.js",
-    "open:output": "open video.mp4",
-    "test": "npm run clean && npm run capture"
+    "capture": "bun src/index.ts",
+    "open:output": "open video.mp4"
   },
   "keywords": [],
   "author": "Maxime Grisole",
   "license": "ISC",
   "dependencies": {
     "@opentf/cli-pbar": "^0.1.8",
-    "@types/node": "^20.9.0",
     "execa": "^8.0.1",
-    "ffmpeg": "^0.0.4",
-    "fluent-ffmpeg": "^2.1.2",
-    "ftp": "^0.3.10",
-    "ftp-service": "^6.0.3",
-    "ftp-srv": "^4.6.3",
-    "node-webcam": "^0.8.2",
-    "videoshow": "^0.1.12",
     "winston": "^3.11.0"
   },
   "devDependencies": {
-    "@types/ftp": "^0.3.36",
-    "@types/node-webcam": "^0.8.3",
+    "@types/node": "^20.9.0",
+    "prettier": "^3.1.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
   }
