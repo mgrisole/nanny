@@ -625,3 +625,629 @@ ncftpput undefined: could not open file.
 ./captures-local-storage/1701077897515.avi:              5.07 MB   42.25 MB/s  
 
 11/27/2023 10:38:17 AM / info -> ./captures-local-storage/1701077897515.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 10:41:47 AM / info -> Capturing 1/10: ./captures-local-storage/1701078107421.avi
+11/27/2023 10:43:49 AM / info -> Capturing 2/10: ./captures-local-storage/1701078229406.avi
+11/27/2023 10:45:51 AM / info -> Capturing 3/10: ./captures-local-storage/1701078351687.avi
+11/27/2023 10:47:52 AM / info -> Capturing 4/10: ./captures-local-storage/1701078472411.avi
+11/27/2023 10:49:53 AM / info -> Capturing 5/10: ./captures-local-storage/1701078593161.avi
+11/27/2023 10:51:53 AM / info -> Capturing 6/10: ./captures-local-storage/1701078713854.avi
+11/27/2023 10:53:54 AM / info -> Capturing 7/10: ./captures-local-storage/1701078834601.avi
+11/27/2023 10:55:55 AM / info -> Capturing 8/10: ./captures-local-storage/1701078955218.avi
+11/27/2023 10:57:55 AM / info -> Capturing 9/10: ./captures-local-storage/1701079075987.avi
+11/27/2023 10:59:56 AM / info -> Capturing 10/10: ./captures-local-storage/1701079196735.avi
+11/27/2023 11:01:58 AM / info -> Merging: ./captures-local-storage
+11/27/2023 11:01:59 AM / info -> Capture successfully merged: ./captures-local-storage/1701079318722.avi
+11/27/2023 11:01:59 AM / info -> ./captures-local-storage/1701079318722.avi:
+11/27/2023 11:01:59 AM / info -> ...al-storage/1701079318722.avi:   ETA:   0:00    0.12/228.34 MB    1.27 GB/s  
+11/27/2023 11:02:00 AM / info -> ...al-storage/1701079318722.avi:   ETA:   0:04   30.62/228.34 MB   44.90 MB/s  
+11/27/2023 11:02:01 AM / info -> ...al-storage/1701079318722.avi:   ETA:   0:09   37.49/228.34 MB   22.29 MB/s  
+11/27/2023 11:02:02 AM / info -> ...al-storage/1701079318722.avi:   ETA:   0:12   42.48/228.34 MB   15.84 MB/s  
+11/27/2023 11:02:03 AM / info -> ...al-storage/1701079318722.avi:   ETA:   0:15   45.73/228.34 MB   12.42 MB/s  
+11/27/2023 11:02:04 AM / info -> ...al-storage/1701079318722.avi:   ETA:   0:06  102.20/228.34 MB   21.83 MB/s  
+11/27/2023 11:02:05 AM / info -> ...al-storage/1701079318722.avi:   ETA:   0:02  166.85/228.34 MB   29.36 MB/s  
+11/27/2023 11:02:05 AM / info -> ...al-storage/1701079318722.avi:   ETA:   0:00  228.30/228.34 MB   34.29 MB/s  ./captures-local-storage/1701079318722.avi:            228.34 MB   34.29 MB/s  
+./captures-local-storage/1701079318722.avi:            228.34 MB   34.29 MB/s  
+
+11/27/2023 11:02:05 AM / info -> ./captures-local-storage/1701079318722.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 11:10:18 AM / info -> Capturing 1/10: ./captures-local-storage/1701079818048.avi
+11/27/2023 11:12:20 AM / info -> Capturing 2/10: ./captures-local-storage/1701079940058.avi
+11/27/2023 11:14:20 AM / info -> Capturing 3/10: ./captures-local-storage/1701080060878.avi
+11/27/2023 11:16:21 AM / info -> Capturing 4/10: ./captures-local-storage/1701080181712.avi
+11/27/2023 11:18:22 AM / info -> Capturing 5/10: ./captures-local-storage/1701080302778.avi
+11/27/2023 11:20:23 AM / info -> Capturing 6/10: ./captures-local-storage/1701080423578.avi
+11/27/2023 11:22:24 AM / info -> Capturing 7/10: ./captures-local-storage/1701080544543.avi
+11/27/2023 11:24:25 AM / info -> Capturing 8/10: ./captures-local-storage/1701080665296.avi
+11/27/2023 11:26:26 AM / info -> Capturing 9/10: ./captures-local-storage/1701080786041.avi
+11/27/2023 11:28:26 AM / info -> Capturing 10/10: ./captures-local-storage/1701080906755.avi
+11/27/2023 11:30:27 AM / info -> Merging: ./captures-local-storage
+11/27/2023 11:30:28 AM / info -> Capture successfully merged: ./captures-local-storage/1701081027510.avi
+11/27/2023 11:30:28 AM / info -> ./captures-local-storage/1701081027510.avi:
+11/27/2023 11:30:28 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:00    0.12/242.04 MB    1.05 GB/s  
+11/27/2023 11:30:29 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:52    3.63/242.04 MB    4.61 MB/s  
+11/27/2023 11:30:30 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:23    5.08/242.04 MB    2.84 MB/s  
+11/27/2023 11:30:31 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:39    6.63/242.04 MB    2.38 MB/s  
+11/27/2023 11:30:32 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:47    8.29/242.04 MB    2.19 MB/s  
+11/27/2023 11:30:33 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:11    8.56/242.04 MB    1.79 MB/s  
+11/27/2023 11:30:34 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:59   11.21/242.04 MB    1.94 MB/s  
+11/27/2023 11:30:35 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:09   12.06/242.04 MB    1.78 MB/s  
+11/27/2023 11:30:36 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:29   12.06/242.04 MB    1.55 MB/s  
+11/27/2023 11:30:37 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:45   12.25/242.04 MB    1.39 MB/s  
+11/27/2023 11:30:38 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:40   13.96/242.04 MB    1.43 MB/s  
+11/27/2023 11:30:39 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:52   14.31/242.04 MB    1.33 MB/s  
+11/27/2023 11:30:40 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:46   16.06/242.04 MB    1.36 MB/s  
+11/27/2023 11:30:41 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:34   18.61/242.04 MB    1.46 MB/s  
+11/27/2023 11:30:42 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:33   20.06/242.04 MB    1.45 MB/s  
+11/27/2023 11:30:43 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:31   21.53/242.04 MB    1.46 MB/s  
+11/27/2023 11:30:44 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:33   22.58/242.04 MB    1.43 MB/s  
+11/27/2023 11:30:45 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:29   24.51/242.04 MB    1.46 MB/s  
+11/27/2023 11:30:46 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:25   26.46/242.04 MB    1.49 MB/s  
+11/27/2023 11:30:47 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:23   28.06/242.04 MB    1.49 MB/s  
+11/27/2023 11:30:48 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:22   29.58/242.04 MB    1.49 MB/s  
+11/27/2023 11:30:49 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:20   31.24/242.04 MB    1.50 MB/s  
+11/27/2023 11:30:50 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:18   32.99/242.04 MB    1.51 MB/s  
+11/27/2023 11:30:51 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:17   34.62/242.04 MB    1.52 MB/s  
+11/27/2023 11:30:52 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:15   36.22/242.04 MB    1.52 MB/s  
+11/27/2023 11:30:53 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:14   37.83/242.04 MB    1.53 MB/s  
+11/27/2023 11:30:54 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:12   39.50/242.04 MB    1.53 MB/s  
+11/27/2023 11:30:55 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:16   39.79/242.04 MB    1.49 MB/s  
+11/27/2023 11:30:56 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:15   41.25/242.04 MB    1.48 MB/s  
+11/27/2023 11:30:57 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:14   42.84/242.04 MB    1.49 MB/s  
+11/27/2023 11:30:58 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:12   44.56/242.04 MB    1.50 MB/s  
+11/27/2023 11:30:59 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:10   46.30/242.04 MB    1.50 MB/s  
+11/27/2023 11:31:00 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:09   47.85/242.04 MB    1.51 MB/s  
+11/27/2023 11:31:01 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:08   49.30/242.04 MB    1.50 MB/s  
+11/27/2023 11:31:02 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:07   50.94/242.04 MB    1.51 MB/s  
+11/27/2023 11:31:03 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:06   52.45/242.04 MB    1.51 MB/s  
+11/27/2023 11:31:04 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:05   53.98/242.04 MB    1.51 MB/s  
+11/27/2023 11:31:05 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:04   55.53/242.04 MB    1.51 MB/s  
+11/27/2023 11:31:06 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:02   57.25/242.04 MB    1.52 MB/s  
+11/27/2023 11:31:07 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:01   58.73/242.04 MB    1.51 MB/s  
+11/27/2023 11:31:08 AM / info -> ...al-storage/1701081027510.avi:   ETA:   2:00   60.28/242.04 MB    1.52 MB/s  
+11/27/2023 11:31:09 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:58   62.12/242.04 MB    1.52 MB/s  
+11/27/2023 11:31:10 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:57   63.82/242.04 MB    1.53 MB/s  
+11/27/2023 11:31:11 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:55   65.70/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:12 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:54   67.17/242.04 MB    1.53 MB/s  
+11/27/2023 11:31:13 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:56   67.59/242.04 MB    1.51 MB/s  
+11/27/2023 11:31:14 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:52   70.38/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:15 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:52   71.20/242.04 MB    1.52 MB/s  
+11/27/2023 11:31:16 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:50   73.15/242.04 MB    1.53 MB/s  
+11/27/2023 11:31:17 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:49   74.87/242.04 MB    1.53 MB/s  
+11/27/2023 11:31:18 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:48   76.39/242.04 MB    1.53 MB/s  
+11/27/2023 11:31:19 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:47   77.87/242.04 MB    1.53 MB/s  
+11/27/2023 11:31:20 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:46   79.32/242.04 MB    1.53 MB/s  
+11/27/2023 11:31:21 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:45   81.13/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:22 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:44   82.34/242.04 MB    1.53 MB/s  
+11/27/2023 11:31:23 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:42   84.58/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:24 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:41   85.98/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:25 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:40   87.69/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:26 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:39   89.41/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:27 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:39   90.01/242.04 MB    1.53 MB/s  
+11/27/2023 11:31:28 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:37   92.42/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:29 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:36   94.06/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:30 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:35   95.25/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:31 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:34   97.05/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:32 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:32   98.95/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:33 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:32   99.73/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:34 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:31  101.52/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:35 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:29  103.44/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:36 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:28  105.22/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:37 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:28  105.94/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:38 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:26  108.11/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:39 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:25  109.81/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:40 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:24  111.25/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:41 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:23  112.82/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:42 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:22  114.68/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:43 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:21  116.39/242.04 MB    1.56 MB/s  
+11/27/2023 11:31:44 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:20  118.09/242.04 MB    1.56 MB/s  
+11/27/2023 11:31:45 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:20  118.62/242.04 MB    1.54 MB/s  
+11/27/2023 11:31:46 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:18  120.49/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:47 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:16  123.28/242.04 MB    1.56 MB/s  
+11/27/2023 11:31:48 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:15  124.51/242.04 MB    1.56 MB/s  
+11/27/2023 11:31:49 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:15  125.76/242.04 MB    1.56 MB/s  
+11/27/2023 11:31:50 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:15  126.62/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:51 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:13  128.39/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:52 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:12  129.97/242.04 MB    1.55 MB/s  
+11/27/2023 11:31:53 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:10  132.78/242.04 MB    1.57 MB/s  
+11/27/2023 11:31:54 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:07  135.54/242.04 MB    1.58 MB/s  
+11/27/2023 11:31:55 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:06  137.09/242.04 MB    1.58 MB/s  
+11/27/2023 11:31:56 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:06  138.57/242.04 MB    1.58 MB/s  
+11/27/2023 11:31:57 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:04  140.20/242.04 MB    1.58 MB/s  
+11/27/2023 11:31:58 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:05  140.72/242.04 MB    1.57 MB/s  
+11/27/2023 11:31:59 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:03  142.95/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:00 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:02  144.44/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:01 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:01  146.10/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:02 AM / info -> ...al-storage/1701081027510.avi:   ETA:   1:00  147.59/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:03 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:59  149.18/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:04 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:58  150.72/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:05 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:57  151.96/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:06 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:57  153.41/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:07 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:55  155.00/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:08 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:54  156.75/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:09 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:53  158.32/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:10 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:52  159.89/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:11 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:51  161.37/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:12 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:50  162.86/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:13 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:50  164.31/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:14 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:49  165.80/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:15 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:48  167.23/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:16 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:47  168.81/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:17 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:46  170.47/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:18 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:45  172.06/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:19 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:43  173.86/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:20 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:42  175.41/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:21 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:41  177.82/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:22 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:39  179.88/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:23 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:38  181.36/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:24 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:37  182.95/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:25 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:36  184.84/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:26 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:35  186.03/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:27 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:34  187.87/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:28 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:33  189.19/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:29 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:32  191.04/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:30 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:31  192.55/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:31 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:30  194.19/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:32 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:30  194.48/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:33 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:28  197.28/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:34 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:27  198.88/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:35 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:26  200.25/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:36 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:25  201.82/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:37 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:25  203.30/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:38 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:24  204.84/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:39 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:22  206.71/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:40 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:22  206.87/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:41 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:20  209.78/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:42 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:20  210.21/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:43 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:18  213.03/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:44 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:17  214.54/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:45 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:17  215.57/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:46 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:15  217.61/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:47 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:14  219.15/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:48 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:14  220.59/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:49 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:13  222.00/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:50 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:12  223.58/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:51 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:11  225.13/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:52 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:10  226.64/242.04 MB    1.58 MB/s  
+11/27/2023 11:32:53 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:09  227.76/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:54 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:08  229.31/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:55 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:07  230.34/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:56 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:06  232.35/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:57 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:06  232.42/242.04 MB    1.56 MB/s  
+11/27/2023 11:32:58 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:04  235.23/242.04 MB    1.57 MB/s  
+11/27/2023 11:32:59 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:03  236.71/242.04 MB    1.57 MB/s  
+11/27/2023 11:33:00 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:03  238.04/242.04 MB    1.57 MB/s  
+11/27/2023 11:33:01 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:01  239.89/242.04 MB    1.57 MB/s  
+11/27/2023 11:33:02 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:00  241.32/242.04 MB    1.57 MB/s  
+11/27/2023 11:33:03 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:00  242.04/242.04 MB    1.56 MB/s  
+11/27/2023 11:33:03 AM / info -> ...al-storage/1701081027510.avi:   ETA:   0:00  242.04/242.04 MB    1.56 MB/s  ./captures-local-storage/1701081027510.avi:            242.04 MB    1.56 MB/s  
+./captures-local-storage/1701081027510.avi:            242.04 MB    1.56 MB/s  
+
+11/27/2023 11:33:03 AM / info -> ./captures-local-storage/1701081027510.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 11:36:05 AM / info -> Capturing 1/5: ./captures-local-storage/1701081365790.avi
+11/27/2023 11:38:07 AM / info -> Capturing 2/5: ./captures-local-storage/1701081487774.avi
+11/27/2023 11:40:08 AM / info -> Capturing 3/5: ./captures-local-storage/1701081608501.avi
+11/27/2023 11:42:09 AM / info -> Capturing 4/5: ./captures-local-storage/1701081729184.avi
+11/27/2023 11:44:09 AM / info -> Capturing 5/5: ./captures-local-storage/1701081849893.avi
+11/27/2023 11:46:10 AM / info -> Merging: ./captures-local-storage
+11/27/2023 11:46:10 AM / info -> Capture successfully merged: ./captures-local-storage/1701081970605.avi
+11/27/2023 11:46:11 AM / info -> ./captures-local-storage/1701081970605.avi:
+11/27/2023 11:46:11 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:00    0.12/122.28 MB    1.25 GB/s  
+11/27/2023 11:46:12 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:35    3.19/122.28 MB    3.43 MB/s  
+11/27/2023 11:46:13 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:47    4.82/122.28 MB    2.50 MB/s  
+11/27/2023 11:46:14 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:52    6.51/122.28 MB    2.22 MB/s  
+11/27/2023 11:46:15 AM / info -> ...al-storage/1701081970605.avi:   ETA:   1:07    6.80/122.28 MB    1.73 MB/s  
+11/27/2023 11:46:16 AM / info -> ...al-storage/1701081970605.avi:   ETA:   1:06    8.53/122.28 MB    1.73 MB/s  
+11/27/2023 11:46:17 AM / info -> ...al-storage/1701081970605.avi:   ETA:   1:03   10.59/122.28 MB    1.79 MB/s  
+11/27/2023 11:46:18 AM / info -> ...al-storage/1701081970605.avi:   ETA:   1:03   12.13/122.28 MB    1.75 MB/s  
+11/27/2023 11:46:19 AM / info -> ...al-storage/1701081970605.avi:   ETA:   1:04   13.50/122.28 MB    1.70 MB/s  
+11/27/2023 11:46:20 AM / info -> ...al-storage/1701081970605.avi:   ETA:   1:04   15.05/122.28 MB    1.69 MB/s  
+11/27/2023 11:46:21 AM / info -> ...al-storage/1701081970605.avi:   ETA:   1:05   16.13/122.28 MB    1.62 MB/s  
+11/27/2023 11:46:22 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:59   18.99/122.28 MB    1.74 MB/s  
+11/27/2023 11:46:23 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:59   20.65/122.28 MB    1.73 MB/s  
+11/27/2023 11:46:24 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:58   22.23/122.28 MB    1.72 MB/s  
+11/27/2023 11:46:25 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:59   23.48/122.28 MB    1.69 MB/s  
+11/27/2023 11:46:26 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:58   25.02/122.28 MB    1.68 MB/s  
+11/27/2023 11:46:27 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:58   26.36/122.28 MB    1.65 MB/s  
+11/27/2023 11:46:28 AM / info -> ...al-storage/1701081970605.avi:   ETA:   1:00   26.92/122.28 MB    1.59 MB/s  
+11/27/2023 11:46:29 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:57   29.34/122.28 MB    1.64 MB/s  
+11/27/2023 11:46:30 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:56   30.95/122.28 MB    1.64 MB/s  
+11/27/2023 11:46:31 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:55   32.51/122.28 MB    1.63 MB/s  
+11/27/2023 11:46:32 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:57   33.03/122.28 MB    1.58 MB/s  
+11/27/2023 11:46:33 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:54   35.36/122.28 MB    1.61 MB/s  
+11/27/2023 11:46:34 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:52   37.36/122.28 MB    1.63 MB/s  
+11/27/2023 11:46:35 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:51   38.94/122.28 MB    1.63 MB/s  
+11/27/2023 11:46:36 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:50   40.53/122.28 MB    1.63 MB/s  
+11/27/2023 11:46:37 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:51   41.36/122.28 MB    1.60 MB/s  
+11/27/2023 11:46:38 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:49   43.27/122.28 MB    1.61 MB/s  
+11/27/2023 11:46:39 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:48   44.79/122.28 MB    1.60 MB/s  
+11/27/2023 11:46:40 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:47   46.86/122.28 MB    1.62 MB/s  
+11/27/2023 11:46:41 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:48   46.98/122.28 MB    1.57 MB/s  
+11/27/2023 11:46:42 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:45   50.06/122.28 MB    1.62 MB/s  
+11/27/2023 11:46:43 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:44   51.10/122.28 MB    1.60 MB/s  
+11/27/2023 11:46:44 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:43   52.78/122.28 MB    1.60 MB/s  
+11/27/2023 11:46:45 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:42   54.48/122.28 MB    1.61 MB/s  
+11/27/2023 11:46:46 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:41   56.04/122.28 MB    1.60 MB/s  
+11/27/2023 11:46:47 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:42   56.50/122.28 MB    1.57 MB/s  
+11/27/2023 11:46:48 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:40   58.82/122.28 MB    1.59 MB/s  
+11/27/2023 11:46:49 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:39   60.62/122.28 MB    1.60 MB/s  
+11/27/2023 11:46:50 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:38   61.95/122.28 MB    1.59 MB/s  
+11/27/2023 11:46:51 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:37   63.47/122.28 MB    1.59 MB/s  
+11/27/2023 11:46:52 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:37   64.63/122.28 MB    1.58 MB/s  
+11/27/2023 11:46:53 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:35   66.75/122.28 MB    1.59 MB/s  
+11/27/2023 11:46:54 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:34   68.20/122.28 MB    1.59 MB/s  
+11/27/2023 11:46:55 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:33   69.92/122.28 MB    1.59 MB/s  
+11/27/2023 11:46:56 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:32   71.49/122.28 MB    1.59 MB/s  
+11/27/2023 11:46:57 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:31   72.68/122.28 MB    1.58 MB/s  
+11/27/2023 11:46:58 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:30   74.47/122.28 MB    1.59 MB/s  
+11/27/2023 11:46:59 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:29   75.92/122.28 MB    1.58 MB/s  
+11/27/2023 11:47:00 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:28   77.48/122.28 MB    1.58 MB/s  
+11/27/2023 11:47:01 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:27   78.97/122.28 MB    1.58 MB/s  
+11/27/2023 11:47:02 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:28   79.13/122.28 MB    1.55 MB/s  
+11/27/2023 11:47:03 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:26   81.50/122.28 MB    1.57 MB/s  
+11/27/2023 11:47:04 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:25   83.25/122.28 MB    1.57 MB/s  
+11/27/2023 11:47:05 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:24   85.08/122.28 MB    1.58 MB/s  
+11/27/2023 11:47:06 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:23   86.66/122.28 MB    1.58 MB/s  
+11/27/2023 11:47:07 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:22   87.25/122.28 MB    1.56 MB/s  
+11/27/2023 11:47:08 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:21   89.64/122.28 MB    1.57 MB/s  
+11/27/2023 11:47:09 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:20   91.30/122.28 MB    1.58 MB/s  
+11/27/2023 11:47:10 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:18   93.08/122.28 MB    1.58 MB/s  
+11/27/2023 11:47:11 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:18   94.55/122.28 MB    1.58 MB/s  
+11/27/2023 11:47:12 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:16   96.53/122.28 MB    1.58 MB/s  
+11/27/2023 11:47:13 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:15   98.24/122.28 MB    1.59 MB/s  
+11/27/2023 11:47:14 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:14  100.65/122.28 MB    1.60 MB/s  
+11/27/2023 11:47:15 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:13  102.10/122.28 MB    1.60 MB/s  
+11/27/2023 11:47:16 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:12  103.68/122.28 MB    1.60 MB/s  
+11/27/2023 11:47:17 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:11  105.14/122.28 MB    1.59 MB/s  
+11/27/2023 11:47:18 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:10  106.50/122.28 MB    1.59 MB/s  
+11/27/2023 11:47:19 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:09  108.17/122.28 MB    1.59 MB/s  
+11/27/2023 11:47:20 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:08  109.62/122.28 MB    1.59 MB/s  
+11/27/2023 11:47:21 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:07  111.23/122.28 MB    1.59 MB/s  
+11/27/2023 11:47:22 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:07  111.58/122.28 MB    1.57 MB/s  
+11/27/2023 11:47:23 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:05  114.98/122.28 MB    1.60 MB/s  
+11/27/2023 11:47:24 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:03  117.19/122.28 MB    1.61 MB/s  
+11/27/2023 11:47:25 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:02  118.62/122.28 MB    1.60 MB/s  
+11/27/2023 11:47:26 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:01  120.19/122.28 MB    1.60 MB/s  
+11/27/2023 11:47:27 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:01  121.44/122.28 MB    1.60 MB/s  
+11/27/2023 11:47:28 AM / info -> ...al-storage/1701081970605.avi:   ETA:   0:01  121.44/122.28 MB    1.57 MB/s  ./captures-local-storage/1701081970605.avi:            122.28 MB    1.57 MB/s  
+./captures-local-storage/1701081970605.avi:            122.28 MB    1.57 MB/s  
+
+11/27/2023 11:47:28 AM / info -> ./captures-local-storage/1701081970605.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+11/27/2023 11:53:08 AM / info -> Capturing 1/10: ./captures-local-storage/1701082388349.avi
+11/27/2023 11:55:10 AM / info -> Capturing 2/10: ./captures-local-storage/1701082510548.avi
+11/27/2023 11:57:11 AM / info -> Capturing 3/10: ./captures-local-storage/1701082631256.avi
+11/27/2023 11:59:12 AM / info -> Capturing 4/10: ./captures-local-storage/1701082752026.avi
+11/27/2023 12:17:50 PM / info -> Capturing 5/10: ./captures-local-storage/1701083870980.avi
+11/27/2023 12:19:51 PM / info -> Capturing 6/10: ./captures-local-storage/1701083991738.avi
+11/27/2023 12:21:52 PM / info -> Capturing 7/10: ./captures-local-storage/1701084112520.avi
+11/27/2023 12:23:53 PM / info -> Capturing 8/10: ./captures-local-storage/1701084233314.avi
+11/27/2023 12:25:54 PM / info -> Capturing 9/10: ./captures-local-storage/1701084354106.avi
+11/27/2023 12:27:54 PM / info -> Capturing 10/10: ./captures-local-storage/1701084474953.avi
+11/27/2023 12:29:55 PM / info -> Merging: ./captures-local-storage
+11/27/2023 12:29:56 PM / info -> Capture successfully merged: ./captures-local-storage/1701084595771.avi
+11/27/2023 12:29:56 PM / info -> ./captures-local-storage/1701084595771.avi:
+11/27/2023 12:29:56 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:00    0.12/240.81 MB    1.25 GB/s  
+11/27/2023 12:29:57 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:33    4.09/240.81 MB    7.15 MB/s  
+11/27/2023 12:29:58 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:11    5.18/240.81 MB    3.30 MB/s  
+11/27/2023 12:29:59 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:27    6.94/240.81 MB    2.70 MB/s  
+11/27/2023 12:30:00 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:34    8.80/240.81 MB    2.46 MB/s  
+11/27/2023 12:30:01 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:27   11.99/240.81 MB    2.62 MB/s  
+11/27/2023 12:30:02 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:32   13.82/240.81 MB    2.48 MB/s  
+11/27/2023 12:30:03 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:42   14.52/240.81 MB    2.21 MB/s  
+11/27/2023 12:30:04 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:37   17.45/240.81 MB    2.30 MB/s  
+11/27/2023 12:30:05 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:38   19.44/240.81 MB    2.27 MB/s  
+11/27/2023 12:30:06 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:37   21.60/240.81 MB    2.26 MB/s  
+11/27/2023 12:30:07 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:33   24.48/240.81 MB    2.32 MB/s  
+11/27/2023 12:30:08 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:34   26.34/240.81 MB    2.28 MB/s  
+11/27/2023 12:30:09 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:35   28.14/240.81 MB    2.24 MB/s  
+11/27/2023 12:30:10 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:36   29.81/240.81 MB    2.20 MB/s  
+11/27/2023 12:30:11 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:36   31.68/240.81 MB    2.17 MB/s  
+11/27/2023 12:30:12 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:37   33.28/240.81 MB    2.14 MB/s  
+11/27/2023 12:30:13 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:38   34.97/240.81 MB    2.11 MB/s  
+11/27/2023 12:30:14 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:37   37.05/240.81 MB    2.11 MB/s  
+11/27/2023 12:30:15 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:37   38.83/240.81 MB    2.09 MB/s  
+11/27/2023 12:30:16 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:36   40.73/240.81 MB    2.08 MB/s  
+11/27/2023 12:30:17 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:36   42.36/240.81 MB    2.06 MB/s  
+11/27/2023 12:30:18 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:37   43.99/240.81 MB    2.04 MB/s  
+11/27/2023 12:30:19 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:38   45.07/240.81 MB    2.00 MB/s  
+11/27/2023 12:30:20 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:37   47.12/240.81 MB    2.00 MB/s  
+11/27/2023 12:30:21 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:37   48.64/240.81 MB    1.98 MB/s  
+11/27/2023 12:30:22 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:38   49.82/240.81 MB    1.95 MB/s  
+11/27/2023 12:30:23 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:36   52.06/240.81 MB    1.96 MB/s  
+11/27/2023 12:30:24 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:36   53.73/240.81 MB    1.95 MB/s  
+11/27/2023 12:30:25 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:36   55.33/240.81 MB    1.94 MB/s  
+11/27/2023 12:30:26 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:35   57.12/240.81 MB    1.93 MB/s  
+11/27/2023 12:30:27 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:35   58.70/240.81 MB    1.92 MB/s  
+11/27/2023 12:30:28 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:34   60.31/240.81 MB    1.91 MB/s  
+11/27/2023 12:30:29 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:34   62.00/240.81 MB    1.90 MB/s  
+11/27/2023 12:30:30 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:34   63.53/240.81 MB    1.89 MB/s  
+11/27/2023 12:30:31 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:34   64.94/240.81 MB    1.88 MB/s  
+11/27/2023 12:30:32 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:32   66.89/240.81 MB    1.88 MB/s  
+11/27/2023 12:30:33 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:32   68.52/240.81 MB    1.87 MB/s  
+11/27/2023 12:30:34 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:32   70.09/240.81 MB    1.87 MB/s  
+11/27/2023 12:30:35 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:31   71.66/240.81 MB    1.86 MB/s  
+11/27/2023 12:30:36 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:29   73.88/240.81 MB    1.87 MB/s  
+11/27/2023 12:30:37 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:30   74.65/240.81 MB    1.84 MB/s  
+11/27/2023 12:30:38 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:28   77.45/240.81 MB    1.86 MB/s  
+11/27/2023 12:30:39 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:26   79.50/240.81 MB    1.87 MB/s  
+11/27/2023 12:30:40 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:25   81.37/240.81 MB    1.87 MB/s  
+11/27/2023 12:30:41 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:24   83.39/240.81 MB    1.87 MB/s  
+11/27/2023 12:30:42 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:23   85.55/240.81 MB    1.88 MB/s  
+11/27/2023 12:30:43 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:22   87.17/240.81 MB    1.87 MB/s  
+11/27/2023 12:30:44 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:23   87.98/240.81 MB    1.85 MB/s  
+11/27/2023 12:30:45 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:19   91.56/240.81 MB    1.89 MB/s  
+11/27/2023 12:30:46 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:13   97.53/240.81 MB    1.97 MB/s  
+11/27/2023 12:30:47 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:10  100.71/240.81 MB    1.99 MB/s  
+11/27/2023 12:30:48 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:09  102.67/240.81 MB    1.99 MB/s  
+11/27/2023 12:30:49 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:08  104.66/240.81 MB    1.99 MB/s  
+11/27/2023 12:30:50 PM / info -> ...al-storage/1701084595771.avi:   ETA:   1:08  106.53/240.81 MB    1.99 MB/s  
+11/27/2023 12:30:51 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:51  125.07/240.81 MB    2.29 MB/s  
+11/27/2023 12:30:52 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:49  127.49/240.81 MB    2.29 MB/s  
+11/27/2023 12:30:53 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:48  129.75/240.81 MB    2.29 MB/s  
+11/27/2023 12:30:54 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:48  130.74/240.81 MB    2.27 MB/s  
+11/27/2023 12:30:55 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:47  133.19/240.81 MB    2.27 MB/s  
+11/27/2023 12:30:56 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:47  134.82/240.81 MB    2.26 MB/s  
+11/27/2023 12:30:57 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:46  136.71/240.81 MB    2.26 MB/s  
+11/27/2023 12:30:58 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:46  137.93/240.81 MB    2.24 MB/s  
+11/27/2023 12:30:59 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:40  146.94/240.81 MB    2.35 MB/s  
+11/27/2023 12:31:00 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:33  158.62/240.81 MB    2.50 MB/s  
+11/27/2023 12:31:01 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:21  180.89/240.81 MB    2.80 MB/s  
+11/27/2023 12:31:02 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:21  182.75/240.81 MB    2.79 MB/s  
+11/27/2023 12:31:03 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:20  184.67/240.81 MB    2.77 MB/s  
+11/27/2023 12:31:04 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:20  186.32/240.81 MB    2.76 MB/s  
+11/27/2023 12:31:05 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:19  188.54/240.81 MB    2.75 MB/s  
+11/27/2023 12:31:06 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:18  190.33/240.81 MB    2.74 MB/s  
+11/27/2023 12:31:07 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:18  192.03/240.81 MB    2.72 MB/s  
+11/27/2023 12:31:08 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:17  194.17/240.81 MB    2.71 MB/s  
+11/27/2023 12:31:09 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:14  201.79/240.81 MB    2.78 MB/s  
+11/27/2023 12:31:10 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:13  203.84/240.81 MB    2.77 MB/s  
+11/27/2023 12:31:11 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:13  205.72/240.81 MB    2.76 MB/s  
+11/27/2023 12:31:12 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:12  206.68/240.81 MB    2.73 MB/s  
+11/27/2023 12:31:13 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:12  209.20/240.81 MB    2.73 MB/s  
+11/27/2023 12:31:14 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:11  211.77/240.81 MB    2.73 MB/s  
+11/27/2023 12:31:15 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:10  214.29/240.81 MB    2.73 MB/s  
+11/27/2023 12:31:16 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:09  216.42/240.81 MB    2.72 MB/s  
+11/27/2023 12:31:17 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:06  224.85/240.81 MB    2.79 MB/s  
+11/27/2023 12:31:18 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:05  226.59/240.81 MB    2.78 MB/s  
+11/27/2023 12:31:19 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:05  227.20/240.81 MB    2.75 MB/s  
+11/27/2023 12:31:20 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:04  229.89/240.81 MB    2.75 MB/s  
+11/27/2023 12:31:21 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:03  231.83/240.81 MB    2.74 MB/s  
+11/27/2023 12:31:22 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:03  233.59/240.81 MB    2.73 MB/s  
+11/27/2023 12:31:23 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:02  234.13/240.81 MB    2.70 MB/s  
+11/27/2023 12:31:24 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:01  237.42/240.81 MB    2.71 MB/s  
+11/27/2023 12:31:25 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:01  239.07/240.81 MB    2.70 MB/s  
+11/27/2023 12:31:26 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:00  240.80/240.81 MB    2.66 MB/s  
+11/27/2023 12:31:27 PM / info -> ...al-storage/1701084595771.avi:   ETA:   0:00  240.80/240.81 MB    2.66 MB/s  ./captures-local-storage/1701084595771.avi:            240.81 MB    2.66 MB/s  
+./captures-local-storage/1701084595771.avi:            240.81 MB    2.66 MB/s  
+
+11/27/2023 12:31:27 PM / info -> ./captures-local-storage/1701084595771.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 8:04:22 PM / info -> Capturing 1/1: ./captures-local-storage/1701630262981.avi
+12/3/2023 8:05:29 PM / warn -> Capture's end date time must be greater than current datetime.
+12/3/2023 8:05:29 PM / info -> Capturing 1/1: ./captures-local-storage/1701630329397.avi
+12/3/2023 8:05:59 PM / warn -> Capture's end date time must be greater than current datetime.
+12/3/2023 8:06:14 PM / info -> Capturing 1/1: ./captures-local-storage/1701630374147.avi
+12/3/2023 8:08:15 PM / info -> ./captures-local-storage/1701630374147.avi:
+12/3/2023 8:08:15 PM / info -> ...al-storage/1701630374147.avi:   ETA:   0:00    0.12/ 31.98 MB  404.53 MB/s  
+12/3/2023 8:08:16 PM / info -> ...al-storage/1701630374147.avi:   ETA:   0:00   23.59/ 31.98 MB   41.98 MB/s  
+12/3/2023 8:08:16 PM / info -> ...al-storage/1701630374147.avi:   ETA:   0:00   31.97/ 31.98 MB   43.53 MB/s  ./captures-local-storage/1701630374147.avi:             31.98 MB   43.53 MB/s  
+./captures-local-storage/1701630374147.avi:             31.98 MB   43.53 MB/s  
+
+12/3/2023 8:08:16 PM / info -> ./captures-local-storage/1701630374147.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 8:10:44 PM / info -> Capturing 1/105408: ./captures-local-storage/1701630644761.avi
+12/3/2023 8:11:40 PM / warn -> Capture's end date time must be greater than current datetime.
+12/3/2023 9:01:07 PM / info -> Capturing 1/2: ./captures-local-storage/1701633667730.avi
+12/3/2023 9:06:10 PM / info -> Capturing 2/2: ./captures-local-storage/1701633970147.avi
+12/3/2023 9:11:10 PM / info -> Capturing 1/2: ./captures-local-storage/1701634270781.avi
+12/3/2023 9:11:10 PM / info -> Merging: ./captures-local-storage
+12/3/2023 9:11:11 PM / info -> Capture successfully merged: ./captures-local-storage/1701634270783.avi
+12/3/2023 9:11:11 PM / info -> ./captures-local-storage/1701634270783.avi:
+12/3/2023 9:11:11 PM / info -> ...al-storage/1701634270783.avi:   ETA:   0:00    0.12/158.01 MB    1.59 GB/s  
+12/3/2023 9:11:12 PM / info -> ...al-storage/1701634270783.avi:   ETA:   0:04   26.22/158.01 MB   32.90 MB/s  
+12/3/2023 9:11:13 PM / info -> ...al-storage/1701634270783.avi:   ETA:   0:08   30.49/158.01 MB   16.97 MB/s  
+12/3/2023 9:11:14 PM / info -> ...al-storage/1701634270783.avi:   ETA:   0:10   33.62/158.01 MB   12.02 MB/s  
+12/3/2023 9:11:15 PM / info -> ...al-storage/1701634270783.avi:   ETA:   0:13   36.74/158.01 MB    9.68 MB/s  
+12/3/2023 9:11:16 PM / info -> ...al-storage/1701634270783.avi:   ETA:   0:05   76.81/158.01 MB   16.01 MB/s  
+12/3/2023 9:11:17 PM / info -> ...al-storage/1701634270783.avi:   ETA:   0:01  135.50/158.01 MB   23.37 MB/s  
+12/3/2023 9:11:17 PM / info -> ...al-storage/1701634270783.avi:   ETA:   0:00  158.00/158.01 MB   23.44 MB/s  ./captures-local-storage/1701634270783.avi:            158.01 MB   23.44 MB/s  
+./captures-local-storage/1701634270783.avi:            158.01 MB   23.44 MB/s  
+
+12/3/2023 9:11:17 PM / info -> ./captures-local-storage/1701634270783.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 9:17:05 PM / info -> Capturing 2/2: ./captures-local-storage/1701634625714.avi
+12/3/2023 9:17:58 PM / info -> Merging: ./captures-local-storage
+12/3/2023 9:17:58 PM / info -> Capture successfully merged: ./captures-local-storage/1701634678009.avi
+12/3/2023 9:17:58 PM / info -> ./captures-local-storage/1701634678009.avi:
+12/3/2023 9:17:58 PM / info -> ...al-storage/1701634678009.avi:   ETA:   0:00    0.12/ 76.29 MB    1.61 GB/s  
+12/3/2023 9:17:59 PM / info -> ...al-storage/1701634678009.avi:   ETA:   0:02   23.74/ 76.29 MB   33.42 MB/s  
+12/3/2023 9:18:00 PM / info -> ...al-storage/1701634678009.avi:   ETA:   0:03   27.12/ 76.29 MB   15.86 MB/s  
+12/3/2023 9:18:01 PM / info -> ...al-storage/1701634678009.avi:   ETA:   0:04   30.34/ 76.29 MB   11.20 MB/s  
+12/3/2023 9:18:02 PM / info -> ...al-storage/1701634678009.avi:   ETA:   0:05   33.35/ 76.29 MB    8.99 MB/s  
+12/3/2023 9:18:02 PM / info -> ...al-storage/1701634678009.avi:   ETA:   0:00   76.23/ 76.29 MB   16.96 MB/s  ./captures-local-storage/1701634678009.avi:             76.29 MB   16.96 MB/s  
+./captures-local-storage/1701634678009.avi:             76.29 MB   16.96 MB/s  
+
+12/3/2023 9:18:02 PM / info -> ./captures-local-storage/1701634678009.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 9:25:37 PM / info -> Capturing 1/2: ./captures-local-storage/1701635137023.avi
+12/3/2023 9:30:38 PM / info -> Capturing 2/2: ./captures-local-storage/1701635438883.avi
+12/3/2023 9:35:39 PM / info -> Capturing 1/2: ./captures-local-storage/1701635739579.avi
+12/3/2023 9:35:39 PM / info -> Merging: ./captures-local-storage
+12/3/2023 9:35:39 PM / info -> Capture successfully merged: ./captures-local-storage/1701635739581.avi
+12/3/2023 9:35:39 PM / info -> ./captures-local-storage/1701635739581.avi:
+12/3/2023 9:35:39 PM / info -> ...al-storage/1701635739581.avi:   ETA:   0:00    0.12/104.61 MB    1.47 GB/s  
+12/3/2023 9:35:40 PM / info -> ...al-storage/1701635739581.avi:   ETA:   0:11    0.14/104.61 MB    9.63 MB/s  
+12/3/2023 9:35:41 PM / info -> ...al-storage/1701635739581.avi:   ETA:   0:04   23.36/104.61 MB   23.02 MB/s  
+12/3/2023 9:35:42 PM / info -> ...al-storage/1701635739581.avi:   ETA:   0:06   26.62/104.61 MB   13.21 MB/s  
+12/3/2023 9:35:43 PM / info -> ...al-storage/1701635739581.avi:   ETA:   0:08   29.75/104.61 MB    9.87 MB/s  
+12/3/2023 9:35:44 PM / info -> ...al-storage/1701635739581.avi:   ETA:   0:04   49.73/104.61 MB   12.39 MB/s  
+12/3/2023 9:35:44 PM / info -> ...al-storage/1701635739581.avi:   ETA:   0:00  104.60/104.61 MB   22.59 MB/s  ./captures-local-storage/1701635739581.avi:            104.61 MB   22.59 MB/s  
+./captures-local-storage/1701635739581.avi:            104.61 MB   22.59 MB/s  
+
+12/3/2023 9:35:44 PM / info -> ./captures-local-storage/1701635739581.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 9:40:40 PM / info -> Capturing 2/2: ./captures-local-storage/1701636040367.avi
+12/3/2023 9:45:41 PM / info -> Capturing 1/1: ./captures-local-storage/1701636341093.avi
+12/3/2023 9:45:41 PM / info -> Merging: ./captures-local-storage
+12/3/2023 9:45:41 PM / info -> Capture successfully merged: ./captures-local-storage/1701636341095.avi
+12/3/2023 9:45:41 PM / info -> ./captures-local-storage/1701636341095.avi:
+12/3/2023 9:45:41 PM / info -> ...al-storage/1701636341095.avi:   ETA:   0:00    0.12/ 93.67 MB    2.10 GB/s  
+12/3/2023 9:45:42 PM / info -> ...al-storage/1701636341095.avi:   ETA:   0:02   24.61/ 93.67 MB   45.89 MB/s  
+12/3/2023 9:45:43 PM / info -> ...al-storage/1701636341095.avi:   ETA:   0:03   31.23/ 93.67 MB   20.33 MB/s  
+12/3/2023 9:45:44 PM / info -> ...al-storage/1701636341095.avi:   ETA:   0:05   31.35/ 93.67 MB   12.36 MB/s  
+12/3/2023 9:45:45 PM / info -> ...al-storage/1701636341095.avi:   ETA:   0:07   31.35/ 93.67 MB    8.87 MB/s  
+12/3/2023 9:45:46 PM / info -> ...al-storage/1701636341095.avi:   ETA:   0:01   80.25/ 93.67 MB   17.69 MB/s  
+12/3/2023 9:45:46 PM / info -> ...al-storage/1701636341095.avi:   ETA:   0:00   93.46/ 93.67 MB   19.65 MB/s  ./captures-local-storage/1701636341095.avi:             93.67 MB   19.65 MB/s  
+./captures-local-storage/1701636341095.avi:             93.67 MB   19.65 MB/s  
+
+12/3/2023 9:45:46 PM / info -> ./captures-local-storage/1701636341095.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 9:49:10 PM / info -> ./captures-local-storage/1701636341093.avi:
+12/3/2023 9:49:10 PM / info -> ...al-storage/1701636341093.avi:   ETA:   0:00    0.12/ 32.25 MB  207.30 MB/s  
+12/3/2023 9:49:11 PM / info -> ...al-storage/1701636341093.avi:   ETA:   0:00   20.61/ 32.25 MB   71.32 MB/s  
+12/3/2023 9:49:11 PM / info -> ...al-storage/1701636341093.avi:   ETA:   0:00   32.25/ 32.25 MB   46.37 MB/s  ./captures-local-storage/1701636341093.avi:             32.25 MB   46.37 MB/s  
+./captures-local-storage/1701636341093.avi:             32.25 MB   46.37 MB/s  
+
+12/3/2023 9:49:11 PM / info -> ./captures-local-storage/1701636341093.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 10:00:26 PM / info -> Capturing 1/2: ./captures-local-storage/1701637226302.avi
+12/3/2023 10:05:28 PM / info -> Capturing 2/2: ./captures-local-storage/1701637528239.avi
+12/3/2023 10:10:29 PM / info -> Capturing 1/2: ./captures-local-storage/1701637829043.avi
+12/3/2023 10:10:29 PM / info -> Merging: ./captures-local-storage
+12/3/2023 10:10:29 PM / info -> Capture successfully merged: ./captures-local-storage/1701637829045.avi
+12/3/2023 10:10:29 PM / info -> ./captures-local-storage/1701637829045.avi:
+12/3/2023 10:10:29 PM / info -> ...al-storage/1701637829045.avi:   ETA:   0:00    0.12/162.03 MB    1.26 GB/s  
+12/3/2023 10:10:30 PM / info -> ...al-storage/1701637829045.avi:   ETA:   0:03   23.23/162.03 MB   41.15 MB/s  
+12/3/2023 10:10:31 PM / info -> ...al-storage/1701637829045.avi:   ETA:   0:07   28.24/162.03 MB   18.05 MB/s  
+12/3/2023 10:10:32 PM / info -> ...al-storage/1701637829045.avi:   ETA:   0:11   29.86/162.03 MB   11.64 MB/s  
+12/3/2023 10:10:33 PM / info -> ...al-storage/1701637829045.avi:   ETA:   0:16   29.98/162.03 MB    8.41 MB/s  
+12/3/2023 10:10:34 PM / info -> ...al-storage/1701637829045.avi:   ETA:   0:06   69.27/162.03 MB   15.17 MB/s  
+12/3/2023 10:10:35 PM / info -> ...al-storage/1701637829045.avi:   ETA:   0:01  142.40/162.03 MB   25.59 MB/s  
+12/3/2023 10:10:35 PM / info -> ...al-storage/1701637829045.avi:   ETA:   0:00  162.01/162.03 MB   27.71 MB/s  ./captures-local-storage/1701637829045.avi:            162.03 MB   27.71 MB/s  
+./captures-local-storage/1701637829045.avi:            162.03 MB   27.71 MB/s  
+
+12/3/2023 10:10:35 PM / info -> ./captures-local-storage/1701637829045.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 10:15:29 PM / info -> Capturing 2/2: ./captures-local-storage/1701638129740.avi
+12/3/2023 10:20:30 PM / info -> Capturing 1/2: ./captures-local-storage/1701638430555.avi
+12/3/2023 10:20:30 PM / info -> Merging: ./captures-local-storage
+12/3/2023 10:20:30 PM / info -> Capture successfully merged: ./captures-local-storage/1701638430557.avi
+12/3/2023 10:20:30 PM / info -> ./captures-local-storage/1701638430557.avi:
+12/3/2023 10:20:30 PM / info -> ...al-storage/1701638430557.avi:   ETA:   0:00    0.12/121.11 MB    2.14 GB/s  
+12/3/2023 10:20:31 PM / info -> ...al-storage/1701638430557.avi:   ETA:   0:02    4.14/121.11 MB   48.48 MB/s  
+12/3/2023 10:20:32 PM / info -> ...al-storage/1701638430557.avi:   ETA:   0:03   29.10/121.11 MB   26.81 MB/s  
+12/3/2023 10:20:33 PM / info -> ...al-storage/1701638430557.avi:   ETA:   0:06   29.49/121.11 MB   14.14 MB/s  
+12/3/2023 10:20:34 PM / info -> ...al-storage/1701638430557.avi:   ETA:   0:10   29.49/121.11 MB    9.56 MB/s  
+12/3/2023 10:20:35 PM / info -> ...al-storage/1701638430557.avi:   ETA:   0:07   45.73/121.11 MB   11.19 MB/s  
+12/3/2023 10:20:36 PM / info -> ...al-storage/1701638430557.avi:   ETA:   0:00  119.56/121.11 MB   23.51 MB/s  
+12/3/2023 10:20:36 PM / info -> ...al-storage/1701638430557.avi:   ETA:   0:00  121.08/121.11 MB   23.60 MB/s  ./captures-local-storage/1701638430557.avi:            121.11 MB   23.60 MB/s  
+./captures-local-storage/1701638430557.avi:            121.11 MB   23.60 MB/s  
+
+12/3/2023 10:20:36 PM / info -> ./captures-local-storage/1701638430557.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 10:25:31 PM / info -> Capturing 2/2: ./captures-local-storage/1701638731464.avi
+12/3/2023 10:30:33 PM / info -> Capturing 1/2: ./captures-local-storage/1701639033698.avi
+12/3/2023 10:30:33 PM / info -> Merging: ./captures-local-storage
+12/3/2023 10:30:34 PM / info -> Capture successfully merged: ./captures-local-storage/1701639033700.avi
+12/3/2023 10:30:34 PM / info -> ./captures-local-storage/1701639033700.avi:
+12/3/2023 10:30:34 PM / info -> ...al-storage/1701639033700.avi:   ETA:   0:00    0.12/131.53 MB    1.34 GB/s  
+12/3/2023 10:30:35 PM / info -> ...al-storage/1701639033700.avi:   ETA:   0:04   23.23/131.53 MB   25.94 MB/s  
+12/3/2023 10:30:36 PM / info -> ...al-storage/1701639033700.avi:   ETA:   0:08   26.37/131.53 MB   13.91 MB/s  
+12/3/2023 10:30:37 PM / info -> ...al-storage/1701639033700.avi:   ETA:   0:11   28.24/131.53 MB    9.75 MB/s  
+12/3/2023 10:30:38 PM / info -> ...al-storage/1701639033700.avi:   ETA:   0:14   28.49/131.53 MB    7.31 MB/s  
+12/3/2023 10:30:39 PM / info -> ...al-storage/1701639033700.avi:   ETA:   0:02   98.17/131.53 MB   20.05 MB/s  
+12/3/2023 10:30:39 PM / info -> ...al-storage/1701639033700.avi:   ETA:   0:00  131.49/131.53 MB   24.34 MB/s  ./captures-local-storage/1701639033700.avi:            131.53 MB   24.34 MB/s  
+./captures-local-storage/1701639033700.avi:            131.53 MB   24.34 MB/s  
+
+12/3/2023 10:30:39 PM / info -> ./captures-local-storage/1701639033700.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 10:35:34 PM / info -> Capturing 2/2: ./captures-local-storage/1701639334475.avi
+12/3/2023 10:40:35 PM / info -> Capturing 1/2: ./captures-local-storage/1701639635302.avi
+12/3/2023 10:40:35 PM / info -> Merging: ./captures-local-storage
+12/3/2023 10:40:35 PM / info -> Capture successfully merged: ./captures-local-storage/1701639635305.avi
+12/3/2023 10:40:35 PM / info -> ./captures-local-storage/1701639635305.avi:
+12/3/2023 10:40:35 PM / info -> ...al-storage/1701639635305.avi:   ETA:   0:00    0.12/135.61 MB    1.36 GB/s  
+12/3/2023 10:40:36 PM / info -> ...al-storage/1701639635305.avi:   ETA:   0:02   21.03/135.61 MB   68.01 MB/s  
+12/3/2023 10:40:37 PM / info -> ...al-storage/1701639635305.avi:   ETA:   0:05   28.24/135.61 MB   21.58 MB/s  
+12/3/2023 10:40:38 PM / info -> ...al-storage/1701639635305.avi:   ETA:   0:09   28.24/135.61 MB   12.23 MB/s  
+12/3/2023 10:40:39 PM / info -> ...al-storage/1701639635305.avi:   ETA:   0:13   28.24/135.61 MB    8.54 MB/s  
+12/3/2023 10:40:40 PM / info -> ...al-storage/1701639635305.avi:   ETA:   0:06   56.30/135.61 MB   13.07 MB/s  
+12/3/2023 10:40:41 PM / info -> ...al-storage/1701639635305.avi:   ETA:   0:00  128.66/135.61 MB   24.23 MB/s  
+12/3/2023 10:40:41 PM / info -> ...al-storage/1701639635305.avi:   ETA:   0:00  135.59/135.61 MB   24.90 MB/s  ./captures-local-storage/1701639635305.avi:            135.61 MB   24.90 MB/s  
+./captures-local-storage/1701639635305.avi:            135.61 MB   24.90 MB/s  
+
+12/3/2023 10:40:41 PM / info -> ./captures-local-storage/1701639635305.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 10:45:36 PM / info -> Capturing 2/2: ./captures-local-storage/1701639936141.avi
+12/3/2023 10:50:36 PM / info -> Capturing 1/1: ./captures-local-storage/1701640236930.avi
+12/3/2023 10:50:36 PM / info -> Merging: ./captures-local-storage
+12/3/2023 10:50:37 PM / info -> Capture successfully merged: ./captures-local-storage/1701640236933.avi
+12/3/2023 10:50:37 PM / info -> ./captures-local-storage/1701640236933.avi:
+12/3/2023 10:50:37 PM / info -> ...al-storage/1701640236933.avi:   ETA:   0:00    0.12/133.68 MB    1.42 GB/s  
+12/3/2023 10:50:38 PM / info -> ...al-storage/1701640236933.avi:   ETA:   0:03   22.49/133.68 MB   34.53 MB/s  
+12/3/2023 10:50:39 PM / info -> ...al-storage/1701640236933.avi:   ETA:   0:07   25.62/133.68 MB   15.51 MB/s  
+12/3/2023 10:50:40 PM / info -> ...al-storage/1701640236933.avi:   ETA:   0:10   27.49/133.68 MB   10.37 MB/s  
+12/3/2023 10:50:41 PM / info -> ...al-storage/1701640236933.avi:   ETA:   0:14   27.73/133.68 MB    7.60 MB/s  
+12/3/2023 10:50:42 PM / info -> ...al-storage/1701640236933.avi:   ETA:   0:04   75.13/133.68 MB   16.15 MB/s  
+12/3/2023 10:50:42 PM / info -> ...al-storage/1701640236933.avi:   ETA:   0:00  133.66/133.68 MB   24.08 MB/s  ./captures-local-storage/1701640236933.avi:            133.68 MB   24.08 MB/s  
+./captures-local-storage/1701640236933.avi:            133.68 MB   24.08 MB/s  
+
+12/3/2023 10:50:42 PM / info -> ./captures-local-storage/1701640236933.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/3/2023 10:52:15 PM / info -> ./captures-local-storage/1701640236930.avi:
+12/3/2023 10:52:15 PM / info -> ...al-storage/1701640236930.avi:   ETA:   0:00    0.12/ 21.73 MB  196.23 MB/s  
+12/3/2023 10:52:16 PM / info -> ...al-storage/1701640236930.avi:   ETA:   0:00   14.88/ 21.73 MB   63.97 MB/s  
+12/3/2023 10:52:16 PM / info -> ...al-storage/1701640236930.avi:   ETA:   0:00   21.72/ 21.73 MB   31.93 MB/s  ./captures-local-storage/1701640236930.avi:             21.73 MB   31.93 MB/s  
+./captures-local-storage/1701640236930.avi:             21.73 MB   31.93 MB/s  
+
+12/3/2023 10:52:16 PM / info -> ./captures-local-storage/1701640236930.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/5/2023 10:53:54 PM / warn -> Capture's end date time must be greater than current datetime.
+12/5/2023 11:04:57 PM / info -> Capturing 1/1: ./captures-local-storage/1701813897338.avi
+12/5/2023 11:07:29 PM / warn -> Capture's end date time must be greater than current datetime.
+12/5/2023 11:12:01 PM / warn -> Capture's end date time must be greater than current datetime.
+12/5/2023 11:12:25 PM / info -> Capturing 1/1: ./captures-local-storage/1701814345868.avi
+12/5/2023 11:12:56 PM / info -> Capturing 1/1: ./captures-local-storage/1701814376226.avi
+12/5/2023 11:13:57 PM / info -> Capturing 1/1: ./captures-local-storage/1701814437942.avi
+12/5/2023 11:14:59 PM / info -> Capturing 1/1: ./captures-local-storage/1701814499852.avi
+12/5/2023 11:14:59 PM / info -> ./captures-local-storage/1701814437942.avi:
+12/5/2023 11:14:59 PM / info -> ...al-storage/1701814437942.avi:   ETA:   0:00    0.12/ 16.84 MB  235.85 MB/s  
+12/5/2023 11:15:00 PM / info -> ...al-storage/1701814437942.avi:   ETA:   0:00    2.37/ 16.84 MB   52.68 MB/s  
+12/5/2023 11:15:00 PM / info -> ...al-storage/1701814437942.avi:   ETA:   0:00   16.83/ 16.84 MB   53.57 MB/s  ./captures-local-storage/1701814437942.avi:             16.84 MB   53.57 MB/s  
+./captures-local-storage/1701814437942.avi:             16.84 MB   53.57 MB/s  
+
+12/5/2023 11:15:00 PM / info -> ./captures-local-storage/1701814437942.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/5/2023 11:15:44 PM / warn -> Capture's end date time must be greater than current datetime.
+12/5/2023 11:16:06 PM / info -> Capturing 1/2: ./captures-local-storage/1701814566166.avi
+12/5/2023 11:21:08 PM / info -> Capturing 2/2: ./captures-local-storage/1701814868098.avi
+12/5/2023 11:26:08 PM / info -> Capturing 1/2: ./captures-local-storage/1701815168917.avi
+12/5/2023 11:26:08 PM / info -> Merging: ./captures-local-storage
+12/5/2023 11:26:09 PM / info -> Capture successfully merged: ./captures-local-storage/1701815168921.avi
+12/5/2023 11:26:09 PM / info -> ./captures-local-storage/1701815168921.avi:
+12/5/2023 11:26:09 PM / info -> ...al-storage/1701815168921.avi:   ETA:   0:00    0.12/149.08 MB    1.80 GB/s  
+12/5/2023 11:26:10 PM / info -> ...al-storage/1701815168921.avi:   ETA:   0:03   25.50/149.08 MB   40.18 MB/s  
+12/5/2023 11:26:11 PM / info -> ...al-storage/1701815168921.avi:   ETA:   0:07   27.61/149.08 MB   16.89 MB/s  
+12/5/2023 11:26:12 PM / info -> ...al-storage/1701815168921.avi:   ETA:   0:12   27.61/149.08 MB   10.48 MB/s  
+12/5/2023 11:26:13 PM / info -> ...al-storage/1701815168921.avi:   ETA:   0:16   27.61/149.08 MB    7.60 MB/s  
+12/5/2023 11:26:14 PM / info -> ...al-storage/1701815168921.avi:   ETA:   0:03   88.29/149.08 MB   19.05 MB/s  
+12/5/2023 11:26:14 PM / info -> ...al-storage/1701815168921.avi:   ETA:   0:00  149.08/149.08 MB   26.51 MB/s  ./captures-local-storage/1701815168921.avi:            149.08 MB   26.51 MB/s  
+./captures-local-storage/1701815168921.avi:            149.08 MB   26.51 MB/s  
+
+12/5/2023 11:26:14 PM / info -> ./captures-local-storage/1701815168921.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/5/2023 11:31:09 PM / info -> Capturing 2/2: ./captures-local-storage/1701815469787.avi
+12/5/2023 11:36:10 PM / info -> Capturing 1/2: ./captures-local-storage/1701815770565.avi
+12/5/2023 11:36:10 PM / info -> Merging: ./captures-local-storage
+12/5/2023 11:36:10 PM / info -> Capture successfully merged: ./captures-local-storage/1701815770568.avi
+12/5/2023 11:36:10 PM / info -> ./captures-local-storage/1701815770568.avi:
+12/5/2023 11:36:10 PM / info -> ...al-storage/1701815770568.avi:   ETA:   0:00    0.12/156.33 MB    2.00 GB/s  
+12/5/2023 11:36:11 PM / info -> ...al-storage/1701815770568.avi:   ETA:   0:04    0.79/156.33 MB   35.13 MB/s  
+12/5/2023 11:36:12 PM / info -> ...al-storage/1701815770568.avi:   ETA:   0:10   15.17/156.33 MB   14.84 MB/s  
+12/5/2023 11:36:13 PM / info -> ...al-storage/1701815770568.avi:   ETA:   0:19   15.17/156.33 MB    7.50 MB/s  
+12/5/2023 11:36:14 PM / info -> ...al-storage/1701815770568.avi:   ETA:   0:28   15.17/156.33 MB    5.02 MB/s  
+12/5/2023 11:36:15 PM / info -> ...al-storage/1701815770568.avi:   ETA:   0:11   42.67/156.33 MB   10.61 MB/s  
+12/5/2023 11:36:16 PM / info -> ...al-storage/1701815770568.avi:   ETA:   0:02  110.67/156.33 MB   22.03 MB/s  
+12/5/2023 11:36:16 PM / info -> ...al-storage/1701815770568.avi:   ETA:   0:00  156.32/156.33 MB   27.59 MB/s  ./captures-local-storage/1701815770568.avi:            156.33 MB   27.59 MB/s  
+./captures-local-storage/1701815770568.avi:            156.33 MB   27.59 MB/s  
+
+12/5/2023 11:36:16 PM / info -> ./captures-local-storage/1701815770568.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/5/2023 11:41:11 PM / info -> Capturing 2/2: ./captures-local-storage/1701816071432.avi
+12/5/2023 11:42:53 PM / info -> Merging: ./captures-local-storage
+12/5/2023 11:42:53 PM / info -> Capture successfully merged: ./captures-local-storage/1701816173326.avi
+12/5/2023 11:42:53 PM / info -> ./captures-local-storage/1701816173326.avi:
+12/5/2023 11:42:53 PM / info -> ...al-storage/1701816173326.avi:   ETA:   0:00    0.12/ 79.71 MB    1.85 GB/s  
+12/5/2023 11:42:54 PM / info -> ...al-storage/1701816173326.avi:   ETA:   0:01   20.97/ 79.71 MB   60.43 MB/s  
+12/5/2023 11:42:55 PM / info -> ...al-storage/1701816173326.avi:   ETA:   0:03   24.25/ 79.71 MB   18.00 MB/s  
+12/5/2023 11:42:56 PM / info -> ...al-storage/1701816173326.avi:   ETA:   0:05   26.62/ 79.71 MB   11.34 MB/s  
+12/5/2023 11:42:57 PM / info -> ...al-storage/1701816173326.avi:   ETA:   0:07   27.00/ 79.71 MB    8.07 MB/s  
+12/5/2023 11:42:58 PM / info -> ...al-storage/1701816173326.avi:   ETA:   0:02   56.56/ 79.71 MB   13.01 MB/s  
+12/5/2023 11:42:58 PM / info -> ...al-storage/1701816173326.avi:   ETA:   0:00   79.71/ 79.71 MB   17.03 MB/s  ./captures-local-storage/1701816173326.avi:             79.71 MB   17.03 MB/s  
+./captures-local-storage/1701816173326.avi:             79.71 MB   17.03 MB/s  
+
+12/5/2023 11:42:58 PM / info -> ./captures-local-storage/1701816173326.avi successfully uploaded in ftp://mafreebox.freebox.fr/Freebox/Nanny
+12/6/2023 9:35:31 AM / info -> Capturing 1/12: ./captures-local-storage/1701851730997.avi
+12/6/2023 9:40:33 AM / info -> Capturing 2/12: ./captures-local-storage/1701852033215.avi
